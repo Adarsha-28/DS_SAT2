@@ -1,0 +1,1201 @@
+batch,line,shift,quantity,machine,age_band,operating_hours,temperature,pressure,speed,supplier,material_grade,lot,defect_type,defect_count,quality_status,defective
+B00001,Line B,Morning,246,M11,6+ years,6433,201.33,6.33,1302.1,Supplier Delta,B,LOT-469,Surface Crack,1,Defective,1
+B00002,Line B,Night,271,M09,0-2 years,4363,200.99,6.5,1223.8,Supplier Gamma,B,LOT-743,Porosity,5,Defective,1
+B00003,Line C,Night,157,M07,0-2 years,3552,182.06,5.43,1234.4,Supplier Beta,B,LOT-576,None,0,Good,0
+B00004,Line B,Morning,152,M12,6+ years,17420,201.29,5.59,1157.1,Supplier Alpha,B,LOT-143,None,0,Good,0
+B00005,Line C,Morning,177,M12,6+ years,17420,198.88,5.56,1271.8,Supplier Delta,A,LOT-890,Dimension Error,4,Defective,1
+B00006,Line C,Night,267,M01,3-5 years,5499,179.29,4.97,1245.7,Supplier Alpha,C,LOT-195,None,0,Good,0
+B00007,Line D,Morning,134,M12,6+ years,17420,177.82,4.89,1209.9,Supplier Beta,C,LOT-152,Porosity,6,Defective,1
+B00008,Line A,Night,84,M05,6+ years,6132,194.52,5.37,1144.1,Supplier Alpha,A,LOT-218,None,0,Good,0
+B00009,Line C,Afternoon,225,M04,0-2 years,4973,195.51,5.49,1288.6,Supplier Beta,C,LOT-835,None,0,Good,0
+B00010,Line D,Morning,120,M09,0-2 years,4363,189.46,4.55,1170.6,Supplier Beta,A,LOT-806,Scratch,1,Defective,1
+B00011,Line C,Night,172,M04,0-2 years,4973,187.91,4.58,1125.2,Supplier Beta,A,LOT-829,Porosity,0,Good,0
+B00012,Line B,Night,280,M06,3-5 years,571,193.9,6.09,1024.4,Supplier Beta,B,LOT-122,None,0,Good,0
+B00013,Line D,Afternoon,265,M03,6+ years,11030,190.12,5.05,1218.7,Supplier Gamma,C,LOT-378,Surface Crack,2,Defective,1
+B00014,Line A,Morning,194,M04,0-2 years,4973,184.71,5.85,973.0,Supplier Alpha,C,LOT-221,None,0,Good,0
+B00015,Line D,Night,173,M05,6+ years,6132,190.83,4.36,1072.6,Supplier Alpha,B,LOT-907,Porosity,1,Defective,1
+B00016,Line C,Afternoon,111,M10,6+ years,2371,185.02,4.51,973.2,Supplier Gamma,B,LOT-409,Warping,1,Defective,1
+B00017,Line A,Afternoon,137,M12,6+ years,17420,190.94,5.16,1226.2,Supplier Gamma,A,LOT-334,None,0,Good,0
+B00018,Line B,Morning,160,M10,6+ years,2371,187.01,4.17,1359.9,Supplier Delta,B,LOT-342,Surface Crack,8,Defective,1
+B00019,Line B,Morning,101,M05,6+ years,6132,184.56,5.27,1139.7,Supplier Alpha,B,LOT-530,Surface Crack,3,Defective,1
+B00020,Line A,Night,167,M01,3-5 years,5499,170.3,4.25,1056.5,Supplier Alpha,A,LOT-649,None,0,Good,0
+B00021,Line C,Morning,180,M12,6+ years,17420,185.19,4.95,1179.3,Supplier Delta,A,LOT-389,None,0,Good,0
+B00022,Line B,Afternoon,270,M10,6+ years,2371,181.18,6.42,1228.8,Supplier Delta,B,LOT-534,Surface Crack,1,Defective,1
+B00023,Line C,Morning,100,M03,6+ years,11030,190.59,4.01,1239.4,Supplier Alpha,B,LOT-802,None,0,Good,0
+B00024,Line B,Morning,156,M03,6+ years,11030,203.16,4.98,1025.8,Supplier Beta,A,LOT-447,Surface Crack,7,Defective,1
+B00025,Line A,Morning,240,M09,0-2 years,4363,190.09,4.32,1182.9,Unknown,Unknown,,Porosity,1,Defective,1
+B00026,Line C,Night,172,M10,6+ years,2371,187.89,5.34,1172.2,Supplier Alpha,A,LOT-646,Surface Crack,7,Defective,1
+B00027,Line C,Morning,165,M10,6+ years,2371,194.72,4.99,1057.6,Supplier Alpha,A,LOT-783,None,0,Good,0
+B00028,Line A,Afternoon,113,M05,6+ years,6132,180.68,4.24,870.5,Supplier Gamma,B,LOT-367,None,0,Good,0
+B00029,Line B,Morning,225,M02,0-2 years,14270,181.38,4.41,1125.9,Supplier Gamma,A,LOT-735,Dimension Error,7,Defective,1
+B00030,Line B,Morning,222,M05,6+ years,6132,187.92,5.47,1176.6,Supplier Beta,B,LOT-783,Scratch,3,Defective,1
+B00031,Line D,Morning,269,M12,6+ years,17420,183.48,4.6,1358.4,Supplier Alpha,B,LOT-336,None,0,Good,0
+B00032,Line C,Afternoon,258,M12,6+ years,17420,184.84,4.43,1203.9,Supplier Gamma,A,LOT-668,None,0,Good,0
+B00033,Line B,Morning,214,M01,3-5 years,5499,180.81,4.96,1386.8,Supplier Beta,A,LOT-121,None,0,Good,0
+B00034,Line D,Afternoon,275,M10,6+ years,2371,186.62,4.75,1151.9,Supplier Gamma,A,LOT-866,Warping,5,Defective,1
+B00035,Line B,Night,255,M09,0-2 years,4363,185.8,6.21,1245.2,Supplier Delta,A,LOT-192,Dimension Error,1,Defective,1
+B00036,Line C,Afternoon,117,M07,0-2 years,3552,189.39,5.1,1162.2,Supplier Gamma,B,LOT-386,None,0,Good,0
+B00037,Line A,Afternoon,134,M04,0-2 years,4973,185.11,4.78,1304.0,Supplier Delta,C,LOT-786,Dimension Error,0,Good,0
+B00038,Line A,Morning,199,M09,0-2 years,4363,179.98,3.86,1311.3,Supplier Beta,B,LOT-466,Porosity,1,Defective,1
+B00039,Line A,Night,223,M12,6+ years,17420,178.96,5.42,866.1,Supplier Gamma,B,LOT-251,Surface Crack,3,Defective,1
+B00040,Line D,Afternoon,177,M12,6+ years,17420,192.95,5.12,1413.4,Supplier Beta,C,LOT-802,Surface Crack,4,Defective,1
+B00041,Line A,Afternoon,81,M03,6+ years,11030,180.72,5.48,1335.5,Supplier Beta,B,LOT-223,None,0,Good,0
+B00042,Line B,Morning,131,M10,6+ years,2371,180.99,5.18,1167.7,Supplier Delta,C,LOT-424,Warping,1,Defective,1
+B00043,Line A,Night,239,M10,6+ years,2371,191.83,5.3,1011.3,Supplier Delta,C,LOT-848,Dimension Error,3,Defective,1
+B00044,Line D,Night,81,M12,6+ years,17420,200.26,5.09,1148.6,Supplier Alpha,B,LOT-867,Porosity,2,Defective,1
+B00045,Line B,Afternoon,208,M02,0-2 years,14270,188.78,4.76,1042.3,Supplier Alpha,C,LOT-521,Surface Crack,8,Defective,1
+B00046,Line A,Night,162,M12,6+ years,17420,195.23,5.72,1064.8,Supplier Beta,A,LOT-249,Scratch,7,Defective,1
+B00047,Line D,Night,235,M09,0-2 years,4363,189.6,6.19,1216.6,Supplier Alpha,B,LOT-775,None,0,Good,0
+B00048,Line D,Night,215,M11,6+ years,6433,184.22,4.54,1133.5,Supplier Alpha,A,LOT-862,None,0,Good,0
+B00049,Line B,Night,279,M09,0-2 years,4363,197.59,5.49,1249.8,Supplier Alpha,A,LOT-848,Surface Crack,3,Defective,1
+B00050,Line B,Night,87,M07,0-2 years,3552,190.45,5.9,1299.8,Supplier Delta,A,LOT-480,None,0,Good,0
+B00051,Line A,Afternoon,229,M10,6+ years,2371,184.68,5.64,1257.6,Supplier Beta,A,LOT-541,None,0,Good,0
+B00052,Line A,Morning,255,M01,3-5 years,5499,173.93,4.68,1071.5,Supplier Gamma,C,LOT-801,Warping,6,Defective,1
+B00053,Line C,Afternoon,195,M02,0-2 years,14270,177.24,4.21,1328.7,Supplier Beta,B,LOT-282,None,0,Good,0
+B00054,Line D,Night,91,M01,3-5 years,5499,192.11,4.18,1101.3,Supplier Gamma,A,LOT-787,Warping,1,Defective,1
+B00055,Line C,Afternoon,220,M08,0-2 years,10441,187.91,5.07,1339.8,Supplier Alpha,A,LOT-688,None,0,Good,0
+B00056,Line B,Night,185,M10,6+ years,2371,190.75,4.91,1124.4,Supplier Gamma,B,LOT-535,Surface Crack,8,Defective,1
+B00057,Line D,Afternoon,262,M08,0-2 years,10441,187.95,5.08,1306.4,Supplier Alpha,C,LOT-767,Scratch,8,Defective,1
+B00058,Line B,Morning,235,M03,6+ years,11030,178.46,4.2,1428.0,Supplier Alpha,A,LOT-689,Warping,1,Defective,1
+B00059,Line B,Afternoon,167,M04,0-2 years,4973,196.17,4.78,1149.0,Supplier Beta,B,LOT-471,Surface Crack,3,Defective,1
+B00060,Line C,Morning,208,M11,6+ years,6433,196.42,5.83,1120.9,Supplier Gamma,B,LOT-536,Scratch,8,Defective,1
+B00061,Line B,Afternoon,83,M01,3-5 years,5499,176.22,5.56,1290.5,Supplier Alpha,A,LOT-462,Dimension Error,4,Defective,1
+B00062,Line D,Afternoon,83,M11,6+ years,6433,182.46,5.33,1096.7,Supplier Alpha,C,LOT-190,Surface Crack,8,Defective,1
+B00063,Line B,Morning,95,M01,3-5 years,5499,190.17,5.69,1143.2,Supplier Beta,B,LOT-515,None,0,Good,0
+B00064,Line D,Afternoon,132,M03,6+ years,11030,167.57,5.7,1181.0,Supplier Delta,C,LOT-204,Dimension Error,1,Defective,1
+B00065,Line D,Night,241,M11,6+ years,6433,193.62,4.93,1176.1,Supplier Alpha,B,LOT-444,None,0,Good,0
+B00066,Line C,Night,129,M08,0-2 years,10441,198.17,4.61,1197.1,Supplier Gamma,A,LOT-334,Dimension Error,3,Defective,1
+B00067,Line D,Afternoon,297,M02,0-2 years,14270,182.22,5.95,1284.7,Supplier Delta,A,LOT-672,Porosity,4,Defective,1
+B00068,Line C,Night,110,M08,0-2 years,10441,192.02,5.86,1201.4,Supplier Gamma,C,LOT-155,None,0,Good,0
+B00069,Line B,Night,107,M03,6+ years,11030,183.96,5.08,1183.1,Supplier Delta,C,LOT-876,Porosity,5,Defective,1
+B00070,Line B,Night,90,M10,6+ years,2371,191.98,5.14,1146.7,Supplier Beta,A,LOT-932,None,0,Good,0
+B00071,Line D,Afternoon,111,M11,6+ years,6433,193.29,3.97,1054.9,Supplier Alpha,B,LOT-221,None,0,Good,0
+B00072,Line A,Night,183,M09,0-2 years,4363,184.91,5.0,1163.3,Supplier Alpha,B,LOT-462,Surface Crack,1,Defective,1
+B00073,Line C,Night,124,M07,0-2 years,3552,183.69,4.98,1187.6,Supplier Alpha,B,LOT-616,None,0,Good,0
+B00074,Line C,Morning,259,M10,6+ years,2371,192.64,5.35,1284.7,Supplier Delta,A,LOT-632,None,0,Good,0
+B00075,Line A,Night,269,M05,6+ years,6132,187.94,5.2,1160.1,Supplier Delta,A,LOT-539,None,0,Good,0
+B00076,Line A,Afternoon,111,M11,6+ years,6433,170.67,4.26,1141.7,Supplier Beta,B,LOT-360,Dimension Error,0,Good,0
+B00077,Line B,Morning,115,M04,0-2 years,4973,191.3,5.86,1292.2,Supplier Delta,B,LOT-833,None,0,Good,0
+B00078,Line B,Morning,264,M05,6+ years,6132,182.66,5.16,1190.8,Supplier Delta,A,LOT-422,None,0,Good,0
+B00079,Line C,Morning,175,M12,6+ years,17420,192.82,4.63,1362.3,Supplier Beta,C,LOT-875,None,0,Good,0
+B00080,Line C,Morning,283,M03,6+ years,11030,188.88,4.6,1204.9,Supplier Beta,C,LOT-464,None,0,Good,0
+B00081,Line D,Night,198,M12,6+ years,17420,190.99,4.2,1093.2,Supplier Beta,A,LOT-926,None,0,Good,0
+B00082,Line D,Night,181,M05,6+ years,6132,189.09,5.06,1321.3,Supplier Beta,A,LOT-448,None,0,Good,0
+B00083,Line C,Afternoon,206,M03,6+ years,11030,195.12,4.87,1161.7,Supplier Delta,A,LOT-989,Warping,2,Defective,1
+B00084,Line C,Afternoon,186,M08,0-2 years,10441,186.73,4.86,1263.4,Supplier Delta,A,LOT-756,None,0,Good,0
+B00085,Line C,Morning,228,M05,6+ years,6132,192.49,4.68,1055.1,Supplier Delta,C,LOT-584,Surface Crack,1,Defective,1
+B00086,Line A,Night,93,M04,0-2 years,4973,187.55,5.02,1223.6,Supplier Beta,B,LOT-725,None,0,Good,0
+B00087,Line A,Morning,259,M03,6+ years,11030,189.63,6.24,1182.6,Supplier Beta,B,LOT-865,Dimension Error,8,Defective,1
+B00088,Line D,Night,161,M10,6+ years,2371,174.46,5.14,924.3,Supplier Beta,A,LOT-804,None,0,Good,0
+B00089,Line D,Night,161,M10,6+ years,2371,184.25,5.42,1151.5,Supplier Beta,C,LOT-701,Porosity,1,Defective,1
+B00090,Line B,Morning,168,M10,6+ years,2371,195.32,5.94,1189.9,Supplier Delta,A,LOT-877,None,0,Good,0
+B00091,Line A,Morning,291,M03,6+ years,11030,183.21,3.96,1189.4,Supplier Gamma,A,LOT-919,Dimension Error,1,Defective,1
+B00092,Line A,Morning,213,M10,6+ years,2371,187.19,5.75,1333.5,Supplier Beta,B,LOT-104,None,0,Good,0
+B00093,Line C,Night,143,M08,0-2 years,10441,199.16,4.73,1080.6,Supplier Alpha,C,LOT-906,Scratch,7,Defective,1
+B00094,Line B,Night,207,M03,6+ years,11030,198.03,4.59,1291.6,Supplier Alpha,C,LOT-511,Porosity,5,Defective,1
+B00095,Line C,Afternoon,93,M06,3-5 years,571,173.08,6.28,1360.3,Supplier Beta,A,LOT-936,None,0,Good,0
+B00096,Line B,Night,214,M01,3-5 years,5499,194.35,4.25,1127.3,Supplier Beta,A,LOT-472,None,0,Good,0
+B00097,Line B,Afternoon,87,M09,0-2 years,4363,187.86,5.62,1184.5,Supplier Alpha,A,LOT-471,None,0,Good,0
+B00098,Line B,Morning,108,M04,0-2 years,4973,183.43,4.92,1195.1,Supplier Gamma,A,LOT-703,Scratch,0,Good,0
+B00099,Line B,Night,267,M08,0-2 years,10441,187.27,5.56,1088.0,Supplier Gamma,B,LOT-662,Warping,3,Defective,1
+B00100,Line C,Afternoon,81,M10,6+ years,2371,190.23,5.51,1206.4,Supplier Alpha,C,LOT-889,Porosity,1,Defective,1
+B00101,Line B,Night,178,M08,0-2 years,10441,182.64,6.78,1083.3,Supplier Alpha,B,LOT-471,None,0,Good,0
+B00102,Line A,Morning,124,M08,0-2 years,10441,194.68,5.57,1113.7,Supplier Delta,A,LOT-185,None,0,Good,0
+B00103,Line C,Night,136,M04,0-2 years,4973,196.67,4.21,1311.2,Supplier Gamma,B,LOT-759,None,0,Good,0
+B00104,Line D,Morning,121,M11,6+ years,6433,185.6,5.24,1200.4,Supplier Alpha,B,LOT-578,Dimension Error,4,Defective,1
+B00105,Line C,Morning,209,M07,0-2 years,3552,184.51,5.87,1134.3,Supplier Alpha,C,LOT-202,None,0,Good,0
+B00106,Line C,Night,150,M02,0-2 years,14270,184.12,5.07,1109.7,Supplier Beta,B,LOT-820,None,0,Good,0
+B00107,Line C,Morning,283,M02,0-2 years,14270,190.76,5.04,1103.3,Supplier Delta,A,LOT-704,Surface Crack,0,Good,0
+B00108,Line C,Morning,262,M07,0-2 years,3552,197.3,5.19,1267.6,Supplier Beta,A,LOT-859,None,0,Good,0
+B00109,Line B,Morning,290,M02,0-2 years,14270,199.63,4.65,1396.2,Supplier Gamma,B,LOT-308,None,0,Good,0
+B00110,Line B,Night,112,M01,3-5 years,5499,185.9,5.57,1102.7,Supplier Beta,B,LOT-140,Scratch,1,Defective,1
+B00111,Line B,Morning,278,M10,6+ years,2371,193.0,5.86,1127.7,Supplier Gamma,A,LOT-274,Dimension Error,1,Defective,1
+B00112,Line B,Morning,237,M11,6+ years,6433,193.88,4.99,1191.2,Supplier Delta,B,LOT-206,None,0,Good,0
+B00113,Line B,Morning,265,M06,3-5 years,571,188.52,5.39,1141.0,Supplier Beta,B,LOT-984,None,0,Good,0
+B00114,Line B,Afternoon,280,M02,0-2 years,14270,191.93,5.76,1174.5,Supplier Alpha,C,LOT-325,None,0,Good,0
+B00115,Line A,Night,116,M12,6+ years,17420,193.61,4.91,1315.4,Supplier Alpha,B,LOT-491,None,0,Good,0
+B00116,Line B,Night,110,M03,6+ years,11030,194.73,5.32,856.3,Supplier Alpha,A,LOT-327,Scratch,6,Defective,1
+B00117,Line C,Morning,290,M08,0-2 years,10441,185.67,5.16,1186.9,Supplier Delta,A,LOT-594,None,0,Good,0
+B00118,Line B,Morning,260,M09,0-2 years,4363,204.38,4.17,1090.4,Supplier Gamma,A,LOT-359,Porosity,2,Defective,1
+B00119,Line C,Morning,130,M09,0-2 years,4363,178.39,5.32,1158.5,Supplier Beta,B,LOT-956,Surface Crack,7,Defective,1
+B00120,Line D,Afternoon,179,M12,6+ years,17420,199.53,5.62,1232.1,Supplier Alpha,C,LOT-531,Surface Crack,5,Defective,1
+B00121,Line B,Afternoon,105,M07,0-2 years,3552,184.78,5.19,1311.6,Supplier Delta,A,LOT-240,None,0,Good,0
+B00122,Line B,Afternoon,241,M05,6+ years,6132,180.34,5.96,1302.5,Supplier Alpha,A,LOT-181,Dimension Error,1,Defective,1
+B00123,Line B,Night,221,M09,0-2 years,4363,198.07,4.3,1061.8,Supplier Alpha,C,LOT-246,None,0,Good,0
+B00124,Line A,Morning,135,M06,3-5 years,571,191.23,5.47,1044.3,Supplier Delta,A,LOT-724,Warping,6,Defective,1
+B00125,Line C,Morning,228,M09,0-2 years,4363,171.79,5.23,1001.1,Supplier Delta,A,LOT-479,None,0,Good,0
+B00126,Line D,Morning,244,M06,3-5 years,571,189.14,5.47,1079.9,Supplier Delta,A,LOT-418,None,0,Good,0
+B00127,Line D,Afternoon,143,M01,3-5 years,5499,190.77,4.98,1086.5,Supplier Gamma,B,LOT-342,Scratch,8,Defective,1
+B00128,Line B,Afternoon,241,M10,6+ years,2371,192.06,5.53,1160.9,Supplier Beta,A,LOT-148,Scratch,6,Defective,1
+B00129,Line B,Afternoon,297,M08,0-2 years,10441,193.29,5.38,1529.9,Supplier Beta,A,LOT-113,Scratch,1,Defective,1
+B00130,Line B,Night,113,M04,0-2 years,4973,187.95,6.06,1290.0,Supplier Gamma,A,LOT-870,Dimension Error,1,Defective,1
+B00131,Line C,Afternoon,175,M11,6+ years,6433,181.97,5.32,1203.4,Supplier Alpha,C,LOT-843,Warping,8,Defective,1
+B00132,Line A,Night,151,M01,3-5 years,5499,185.08,4.72,1039.4,Supplier Delta,A,LOT-191,None,0,Good,0
+B00133,Line C,Night,89,M06,3-5 years,571,181.56,5.25,1129.7,Supplier Alpha,A,LOT-980,Warping,1,Defective,1
+B00134,Line B,Afternoon,242,M07,0-2 years,3552,192.16,5.31,1465.1,Supplier Alpha,A,LOT-839,None,0,Good,0
+B00135,Line A,Morning,256,M08,0-2 years,10441,170.79,5.19,1130.1,Supplier Gamma,A,LOT-357,Dimension Error,1,Defective,1
+B00136,Line A,Afternoon,286,M01,3-5 years,5499,189.47,5.14,1410.9,Supplier Beta,A,LOT-292,Surface Crack,1,Defective,1
+B00137,Line D,Night,158,M05,6+ years,6132,180.15,5.08,1174.9,Supplier Gamma,B,LOT-804,Porosity,1,Defective,1
+B00138,Line D,Night,81,M03,6+ years,11030,183.38,4.81,1147.0,Supplier Gamma,C,LOT-229,Warping,6,Defective,1
+B00139,Line C,Afternoon,88,M03,6+ years,11030,184.69,5.36,1323.2,Supplier Beta,A,LOT-462,Surface Crack,1,Defective,1
+B00140,Line A,Afternoon,215,M01,3-5 years,5499,181.82,5.29,1046.3,Supplier Delta,C,LOT-972,None,0,Good,0
+B00141,Line B,Afternoon,230,M06,3-5 years,571,182.25,5.46,1108.7,Supplier Gamma,B,LOT-670,Warping,2,Defective,1
+B00142,Line C,Morning,116,M10,6+ years,2371,185.26,5.03,1233.8,Supplier Beta,A,LOT-826,None,0,Good,0
+B00143,Line A,Morning,105,M09,0-2 years,4363,188.52,4.91,1247.2,Supplier Gamma,A,LOT-567,Dimension Error,1,Defective,1
+B00144,Line C,Morning,186,M08,0-2 years,10441,188.95,4.85,1156.2,Supplier Beta,A,LOT-616,Surface Crack,2,Defective,1
+B00145,Line A,Afternoon,169,M07,0-2 years,3552,191.83,4.63,1128.4,Supplier Delta,B,LOT-732,Surface Crack,4,Defective,1
+B00146,Line D,Afternoon,286,M12,6+ years,17420,180.3,4.15,966.6,Supplier Alpha,A,LOT-297,None,0,Good,0
+B00147,Line B,Morning,167,M12,6+ years,17420,182.18,4.62,1562.8,Supplier Gamma,A,LOT-573,Warping,6,Defective,1
+B00148,Line A,Afternoon,207,M12,6+ years,17420,182.2,4.56,1264.4,Supplier Alpha,A,LOT-197,None,0,Good,0
+B00149,Line A,Morning,84,M07,0-2 years,3552,187.91,5.44,1207.7,Supplier Beta,A,LOT-405,None,0,Good,0
+B00150,Line A,Morning,196,M11,6+ years,6433,182.79,4.98,1252.2,Supplier Gamma,C,LOT-286,Surface Crack,8,Defective,1
+B00151,Line C,Morning,267,M06,3-5 years,571,194.55,5.37,1249.5,Supplier Gamma,A,LOT-418,None,0,Good,0
+B00152,Line A,Afternoon,134,M12,6+ years,17420,185.49,4.93,1199.9,Supplier Gamma,C,LOT-997,None,0,Good,0
+B00153,Line B,Afternoon,157,M10,6+ years,2371,191.87,5.15,1073.1,Supplier Gamma,B,LOT-838,Warping,6,Defective,1
+B00154,Line B,Afternoon,282,M10,6+ years,2371,191.86,5.02,1259.8,Supplier Delta,A,LOT-485,None,0,Good,0
+B00155,Line D,Afternoon,100,M08,0-2 years,10441,185.32,4.26,1191.7,Supplier Delta,B,LOT-277,Scratch,1,Defective,1
+B00156,Line D,Night,134,M05,6+ years,6132,195.47,4.76,1138.5,Supplier Delta,A,LOT-904,None,0,Good,0
+B00157,Line B,Night,170,M12,6+ years,17420,185.18,5.04,1140.7,Supplier Alpha,A,LOT-854,None,0,Good,0
+B00158,Line B,Afternoon,187,M07,0-2 years,3552,186.78,5.76,1224.0,Supplier Delta,C,LOT-158,None,0,Good,0
+B00159,Line C,Afternoon,193,M03,6+ years,11030,191.65,5.05,1128.8,Supplier Gamma,B,LOT-453,Surface Crack,7,Defective,1
+B00160,Line D,Afternoon,91,M05,6+ years,6132,179.47,5.28,1122.6,Supplier Beta,A,LOT-443,Dimension Error,1,Defective,1
+B00161,Line D,Afternoon,189,M08,0-2 years,10441,186.33,5.62,1389.1,Supplier Gamma,C,LOT-306,None,0,Good,0
+B00162,Line A,Morning,121,M08,0-2 years,10441,187.91,5.04,1357.1,Supplier Delta,A,LOT-277,Porosity,1,Defective,1
+B00163,Line D,Morning,210,M06,3-5 years,571,180.54,4.89,1238.5,Unknown,Unknown,,Warping,1,Defective,1
+B00164,Line C,Night,83,M03,6+ years,11030,184.97,4.42,1119.7,Supplier Delta,B,LOT-120,None,0,Good,0
+B00165,Line C,Afternoon,227,M12,6+ years,17420,183.39,4.97,1263.4,Supplier Beta,A,LOT-568,None,0,Good,0
+B00166,Line C,Night,87,M08,0-2 years,10441,193.29,5.2,1144.8,Supplier Delta,B,LOT-776,Surface Crack,3,Defective,1
+B00167,Line B,Morning,237,M07,0-2 years,3552,188.76,5.23,1167.8,Supplier Gamma,A,LOT-819,Dimension Error,2,Defective,1
+B00168,Line C,Night,173,M03,6+ years,11030,182.62,4.63,1198.4,Supplier Gamma,A,LOT-244,Dimension Error,1,Defective,1
+B00169,Line C,Night,109,M08,0-2 years,10441,191.53,5.9,1198.2,Supplier Alpha,A,LOT-289,None,0,Good,0
+B00170,Line C,Afternoon,120,M05,6+ years,6132,186.6,4.96,1043.2,Supplier Beta,A,LOT-745,Dimension Error,1,Defective,1
+B00171,Line C,Morning,161,M12,6+ years,17420,179.53,5.26,1346.1,Supplier Beta,A,LOT-634,Surface Crack,0,Good,0
+B00172,Line C,Afternoon,107,M04,0-2 years,4973,181.36,4.57,1214.5,Supplier Alpha,A,LOT-387,None,0,Good,0
+B00173,Line A,Morning,231,M07,0-2 years,3552,190.83,5.6,1222.9,Supplier Alpha,B,LOT-186,None,0,Good,0
+B00174,Line B,Afternoon,118,M07,0-2 years,3552,196.28,5.11,1289.5,Supplier Alpha,B,LOT-390,None,0,Good,0
+B00175,Line C,Morning,89,M07,0-2 years,3552,186.22,5.46,1278.5,Supplier Alpha,A,LOT-241,Dimension Error,1,Defective,1
+B00176,Line B,Morning,201,M04,0-2 years,4973,195.16,6.07,1263.4,Supplier Gamma,A,LOT-970,None,0,Good,0
+B00177,Line B,Morning,296,M02,0-2 years,14270,193.15,5.44,941.6,Supplier Beta,A,LOT-792,None,0,Good,0
+B00178,Line B,Morning,262,M04,0-2 years,4973,183.07,5.9,1289.3,Supplier Delta,B,LOT-516,Dimension Error,2,Defective,1
+B00179,Line A,Afternoon,116,M07,0-2 years,3552,188.2,4.86,1169.4,Supplier Delta,A,LOT-763,Dimension Error,8,Defective,1
+B00180,Line B,Afternoon,275,M08,0-2 years,10441,185.2,4.83,1280.4,Supplier Gamma,B,LOT-950,Surface Crack,1,Defective,1
+B00181,Line D,Morning,204,M03,6+ years,11030,182.84,4.97,1223.9,Supplier Delta,A,LOT-911,None,0,Good,0
+B00182,Line B,Morning,189,M02,0-2 years,14270,188.47,5.52,1315.2,Supplier Delta,A,LOT-856,Warping,2,Defective,1
+B00183,Line D,Morning,275,M05,6+ years,6132,178.22,4.58,1180.4,Supplier Alpha,C,LOT-201,Warping,8,Defective,1
+B00184,Line B,Afternoon,215,M11,6+ years,6433,197.58,5.15,1354.4,Supplier Alpha,B,LOT-986,Surface Crack,6,Defective,1
+B00185,Line B,Night,138,M09,0-2 years,4363,192.21,6.25,1076.4,Supplier Alpha,A,LOT-597,None,0,Good,0
+B00186,Line A,Morning,161,M01,3-5 years,5499,187.72,4.77,1332.0,Supplier Beta,B,LOT-128,None,0,Good,0
+B00187,Line A,Night,232,M03,6+ years,11030,189.93,3.89,1384.7,Supplier Delta,C,LOT-613,None,0,Good,0
+B00188,Line A,Morning,80,M07,0-2 years,3552,188.44,4.95,1333.7,Supplier Alpha,A,LOT-231,Scratch,0,Good,0
+B00189,Line B,Morning,116,M04,0-2 years,4973,195.86,6.22,1357.7,Supplier Beta,B,LOT-171,None,0,Good,0
+B00190,Line C,Morning,272,M04,0-2 years,4973,173.74,4.67,1097.7,Supplier Beta,A,LOT-866,Dimension Error,2,Defective,1
+B00191,Line B,Night,216,M12,6+ years,17420,201.81,5.38,1152.2,Supplier Alpha,A,LOT-864,Warping,1,Defective,1
+B00192,Line B,Afternoon,183,M06,3-5 years,571,192.16,5.02,1293.2,Supplier Delta,A,LOT-714,None,0,Good,0
+B00193,Line A,Afternoon,230,M04,0-2 years,4973,191.02,5.44,1097.1,Supplier Beta,A,LOT-851,None,0,Good,0
+B00194,Line B,Night,85,M08,0-2 years,10441,189.38,6.26,1118.7,Supplier Beta,A,LOT-686,None,0,Good,0
+B00195,Line A,Afternoon,197,M12,6+ years,17420,194.71,5.2,1202.7,Supplier Delta,C,LOT-922,Dimension Error,6,Defective,1
+B00196,Line A,Night,81,M11,6+ years,6433,201.11,5.21,1125.0,Supplier Alpha,A,LOT-942,Surface Crack,6,Defective,1
+B00197,Line C,Night,228,M12,6+ years,17420,194.24,5.82,1024.3,Supplier Alpha,C,LOT-560,Warping,1,Defective,1
+B00198,Line D,Morning,262,M02,0-2 years,14270,184.25,4.43,1168.5,Supplier Gamma,A,LOT-545,Surface Crack,5,Defective,1
+B00199,Line B,Night,134,M01,3-5 years,5499,195.24,5.46,970.2,Supplier Gamma,B,LOT-746,Scratch,2,Defective,1
+B00200,Line C,Afternoon,269,M08,0-2 years,10441,196.39,4.99,886.5,Supplier Alpha,B,LOT-567,Surface Crack,2,Defective,1
+B00201,Line A,Afternoon,112,M11,6+ years,6433,185.06,4.27,1204.3,Supplier Beta,B,LOT-310,None,0,Good,0
+B00202,Line D,Morning,274,M09,0-2 years,4363,187.51,4.87,1107.7,Supplier Alpha,A,LOT-919,None,0,Good,0
+B00203,Line D,Morning,229,M04,0-2 years,4973,198.79,5.56,1302.7,Supplier Beta,A,LOT-181,Surface Crack,8,Defective,1
+B00204,Line C,Night,215,M06,3-5 years,571,183.26,4.07,1233.5,Supplier Delta,A,LOT-706,None,0,Good,0
+B00205,Line B,Afternoon,289,M10,6+ years,2371,184.99,5.27,1051.7,Supplier Beta,A,LOT-478,Dimension Error,4,Defective,1
+B00206,Line C,Afternoon,242,M07,0-2 years,3552,195.65,5.52,1200.7,Supplier Beta,C,LOT-542,Porosity,5,Defective,1
+B00207,Line C,Afternoon,245,M07,0-2 years,3552,185.48,5.13,1204.6,Supplier Alpha,C,LOT-971,None,0,Good,0
+B00208,Line D,Night,293,M07,0-2 years,3552,178.61,4.04,1178.5,Supplier Alpha,C,LOT-979,Dimension Error,8,Defective,1
+B00209,Line A,Morning,267,M03,6+ years,11030,182.31,5.3,1285.8,Supplier Alpha,A,LOT-974,None,0,Good,0
+B00210,Line D,Night,111,M07,0-2 years,3552,178.79,5.91,1237.8,Supplier Beta,C,LOT-809,Surface Crack,1,Defective,1
+B00211,Line B,Morning,96,M07,0-2 years,3552,201.02,5.09,1281.6,Supplier Alpha,B,LOT-843,Surface Crack,3,Defective,1
+B00212,Line C,Night,198,M07,0-2 years,3552,182.37,4.8,1513.5,Supplier Alpha,A,LOT-110,Surface Crack,1,Defective,1
+B00213,Line A,Night,257,M02,0-2 years,14270,191.76,5.37,1167.7,Supplier Gamma,B,LOT-909,None,0,Good,0
+B00214,Line B,Morning,241,M10,6+ years,2371,195.2,5.75,1275.4,Supplier Beta,A,LOT-953,Porosity,3,Defective,1
+B00215,Line B,Afternoon,292,M01,3-5 years,5499,195.67,5.27,1350.0,Supplier Gamma,A,LOT-894,None,0,Good,0
+B00216,Line D,Afternoon,235,M03,6+ years,11030,189.74,4.03,983.3,Supplier Gamma,C,LOT-781,Dimension Error,6,Defective,1
+B00217,Line A,Morning,141,M02,0-2 years,14270,191.79,6.41,1079.8,Supplier Beta,B,LOT-627,None,0,Good,0
+B00218,Line B,Afternoon,284,M01,3-5 years,5499,189.24,6.42,1280.4,Supplier Alpha,C,LOT-702,None,0,Good,0
+B00219,Line D,Morning,186,M02,0-2 years,14270,199.54,4.92,1308.4,Supplier Beta,C,LOT-309,None,0,Good,0
+B00220,Line D,Night,112,M12,6+ years,17420,196.81,4.7,1071.7,Supplier Gamma,B,LOT-596,Porosity,6,Defective,1
+B00221,Line A,Night,162,M05,6+ years,6132,192.71,4.41,1140.1,Supplier Alpha,A,LOT-408,None,0,Good,0
+B00222,Line D,Afternoon,201,M08,0-2 years,10441,188.44,5.0,1262.0,Unknown,Unknown,,None,0,Good,0
+B00223,Line C,Morning,231,M04,0-2 years,4973,187.47,5.03,931.9,Unknown,Unknown,,None,0,Good,0
+B00224,Line D,Morning,110,M07,0-2 years,3552,182.49,4.66,1147.0,Supplier Alpha,A,LOT-742,None,0,Good,0
+B00225,Line D,Afternoon,242,M11,6+ years,6433,182.95,5.83,1193.8,Supplier Delta,C,LOT-777,None,0,Good,0
+B00226,Line D,Morning,118,M03,6+ years,11030,178.01,5.24,1228.9,Supplier Delta,A,LOT-672,None,0,Good,0
+B00227,Line B,Afternoon,263,M11,6+ years,6433,188.22,6.84,1146.2,Supplier Gamma,C,LOT-866,Dimension Error,4,Defective,1
+B00228,Line A,Morning,102,M01,3-5 years,5499,191.89,5.19,1137.7,Supplier Beta,B,LOT-407,Porosity,5,Defective,1
+B00229,Line A,Night,98,M07,0-2 years,3552,192.1,4.17,1009.3,Supplier Gamma,A,LOT-679,Scratch,2,Defective,1
+B00230,Line C,Morning,169,M01,3-5 years,5499,187.56,6.09,1261.3,Supplier Gamma,C,LOT-606,Porosity,1,Defective,1
+B00231,Line B,Night,138,M08,0-2 years,10441,173.05,5.94,982.2,Supplier Gamma,A,LOT-366,Surface Crack,8,Defective,1
+B00232,Line B,Afternoon,285,M04,0-2 years,4973,184.84,4.71,1101.9,Supplier Delta,B,LOT-509,Scratch,1,Defective,1
+B00233,Line A,Morning,178,M06,3-5 years,571,181.67,4.03,1209.4,Supplier Beta,A,LOT-357,Warping,1,Defective,1
+B00234,Line A,Morning,175,M08,0-2 years,10441,189.35,6.05,1087.8,Supplier Delta,A,LOT-676,None,0,Good,0
+B00235,Line B,Morning,180,M07,0-2 years,3552,174.05,5.62,1202.8,Supplier Alpha,A,LOT-376,None,0,Good,0
+B00236,Line A,Morning,250,M12,6+ years,17420,185.18,5.23,1185.6,Supplier Alpha,A,LOT-273,None,0,Good,0
+B00237,Line C,Afternoon,149,M01,3-5 years,5499,192.26,5.37,1190.2,Supplier Beta,A,LOT-285,None,0,Good,0
+B00238,Line C,Afternoon,259,M01,3-5 years,5499,189.78,5.15,1433.5,Supplier Beta,A,LOT-289,None,0,Good,0
+B00239,Line A,Morning,172,M03,6+ years,11030,195.97,4.97,1030.0,Supplier Delta,C,LOT-790,Warping,6,Defective,1
+B00240,Line D,Afternoon,231,M04,0-2 years,4973,194.34,4.96,1219.4,Supplier Alpha,A,LOT-741,None,0,Good,0
+B00241,Line D,Afternoon,165,M09,0-2 years,4363,178.59,5.23,1153.1,Supplier Gamma,A,LOT-158,Surface Crack,1,Defective,1
+B00242,Line D,Afternoon,218,M11,6+ years,6433,172.36,5.43,1229.3,Supplier Gamma,A,LOT-936,Warping,1,Defective,1
+B00243,Line D,Afternoon,111,M09,0-2 years,4363,196.23,5.57,1251.0,Supplier Delta,B,LOT-994,None,0,Good,0
+B00244,Line C,Morning,244,M08,0-2 years,10441,197.03,5.11,1195.9,Supplier Beta,A,LOT-552,Surface Crack,1,Defective,1
+B00245,Line A,Afternoon,119,M08,0-2 years,10441,184.05,4.89,1119.1,Supplier Beta,B,LOT-422,Porosity,3,Defective,1
+B00246,Line D,Night,192,M04,0-2 years,4973,182.97,5.61,1140.3,Supplier Beta,A,LOT-652,Warping,4,Defective,1
+B00247,Line D,Morning,89,M11,6+ years,6433,191.0,5.2,937.7,Supplier Alpha,B,LOT-778,None,0,Good,0
+B00248,Line B,Afternoon,203,M08,0-2 years,10441,187.97,5.43,1103.9,Supplier Beta,A,LOT-503,None,0,Good,0
+B00249,Line C,Afternoon,115,M04,0-2 years,4973,175.78,5.89,1499.4,Supplier Alpha,A,LOT-361,Surface Crack,7,Defective,1
+B00250,Line B,Afternoon,107,M09,0-2 years,4363,182.2,3.67,1036.6,Supplier Beta,A,LOT-447,None,0,Good,0
+B00251,Line D,Morning,159,M05,6+ years,6132,189.9,5.31,1240.0,Supplier Beta,A,LOT-463,Surface Crack,7,Defective,1
+B00252,Line C,Afternoon,264,M04,0-2 years,4973,183.54,5.0,1232.6,Supplier Gamma,B,LOT-822,Porosity,1,Defective,1
+B00253,Line A,Night,194,M05,6+ years,6132,179.62,5.64,1374.6,Supplier Gamma,B,LOT-175,Surface Crack,7,Defective,1
+B00254,Line C,Night,84,M12,6+ years,17420,191.07,4.63,1221.3,Supplier Alpha,A,LOT-850,Porosity,1,Defective,1
+B00255,Line D,Night,158,M02,0-2 years,14270,180.61,5.49,1029.5,Supplier Delta,A,LOT-561,Porosity,1,Defective,1
+B00256,Line D,Morning,167,M06,3-5 years,571,196.2,4.44,1152.2,Supplier Alpha,C,LOT-589,None,0,Good,0
+B00257,Line D,Night,92,M01,3-5 years,5499,195.67,5.05,1014.6,Supplier Alpha,B,LOT-765,Surface Crack,8,Defective,1
+B00258,Line C,Afternoon,171,M02,0-2 years,14270,184.98,4.42,1198.7,Supplier Gamma,A,LOT-350,Surface Crack,8,Defective,1
+B00259,Line B,Afternoon,225,M12,6+ years,17420,189.56,3.56,1398.7,Supplier Gamma,A,LOT-392,Surface Crack,1,Defective,1
+B00260,Line C,Afternoon,140,M08,0-2 years,10441,189.06,4.1,1308.7,Supplier Delta,A,LOT-476,Dimension Error,4,Defective,1
+B00261,Line A,Morning,89,M09,0-2 years,4363,191.61,5.96,1284.4,Supplier Gamma,C,LOT-827,None,0,Good,0
+B00262,Line B,Morning,167,M12,6+ years,17420,195.53,5.76,1115.2,Supplier Delta,B,LOT-367,Dimension Error,4,Defective,1
+B00263,Line B,Night,91,M06,3-5 years,571,194.24,5.18,958.9,Supplier Delta,A,LOT-859,None,0,Good,0
+B00264,Line A,Morning,264,M05,6+ years,6132,178.47,5.11,1061.8,Supplier Alpha,B,LOT-840,None,0,Good,0
+B00265,Line B,Morning,126,M03,6+ years,11030,198.67,6.3,1041.7,Supplier Gamma,A,LOT-270,Surface Crack,5,Defective,1
+B00266,Line D,Night,146,M09,0-2 years,4363,184.17,5.63,1017.6,Supplier Gamma,A,LOT-456,None,0,Good,0
+B00267,Line C,Afternoon,295,M12,6+ years,17420,188.75,6.0,1063.2,Supplier Delta,C,LOT-384,None,0,Good,0
+B00268,Line A,Afternoon,184,M05,6+ years,6132,183.31,4.31,1255.3,Supplier Beta,A,LOT-205,Porosity,5,Defective,1
+B00269,Line C,Afternoon,291,M07,0-2 years,3552,195.46,5.12,1023.9,Supplier Beta,A,LOT-659,Scratch,5,Defective,1
+B00270,Line C,Night,208,M08,0-2 years,10441,176.64,5.47,1146.5,Supplier Gamma,A,LOT-300,Surface Crack,1,Defective,1
+B00271,Line B,Night,286,M09,0-2 years,4363,195.44,4.28,931.0,Supplier Beta,A,LOT-773,Surface Crack,5,Defective,1
+B00272,Line C,Night,195,M11,6+ years,6433,193.44,5.47,1184.9,Supplier Gamma,C,LOT-892,Surface Crack,4,Defective,1
+B00273,Line C,Night,110,M09,0-2 years,4363,172.99,5.56,883.2,Supplier Beta,B,LOT-624,Dimension Error,4,Defective,1
+B00274,Line A,Night,194,M11,6+ years,6433,184.94,4.2,1142.9,Supplier Alpha,B,LOT-614,Surface Crack,7,Defective,1
+B00275,Line D,Morning,260,M08,0-2 years,10441,187.36,5.26,1228.9,Supplier Gamma,A,LOT-928,None,0,Good,0
+B00276,Line B,Afternoon,109,M10,6+ years,2371,196.2,4.33,1025.3,Supplier Beta,C,LOT-736,Surface Crack,7,Defective,1
+B00277,Line C,Afternoon,281,M10,6+ years,2371,177.37,5.92,1023.2,Supplier Beta,B,LOT-971,Scratch,5,Defective,1
+B00278,Line B,Night,146,M03,6+ years,11030,203.44,5.38,1494.3,Supplier Beta,A,LOT-299,Porosity,7,Defective,1
+B00279,Line D,Morning,183,M01,3-5 years,5499,183.74,5.91,1286.4,Supplier Alpha,B,LOT-133,None,0,Good,0
+B00280,Line A,Afternoon,208,M04,0-2 years,4973,188.06,5.69,1138.1,Supplier Gamma,C,LOT-633,None,0,Good,0
+B00281,Line D,Night,141,M08,0-2 years,10441,190.91,4.9,1184.6,Supplier Delta,C,LOT-966,Dimension Error,0,Good,0
+B00282,Line D,Night,163,M05,6+ years,6132,193.69,4.2,1091.9,Supplier Beta,B,LOT-994,None,0,Good,0
+B00283,Line A,Afternoon,112,M05,6+ years,6132,188.63,5.91,1300.1,Supplier Gamma,B,LOT-622,None,0,Good,0
+B00284,Line C,Morning,248,M04,0-2 years,4973,177.35,5.12,1120.4,Supplier Beta,B,LOT-317,Porosity,1,Defective,1
+B00285,Line A,Night,283,M08,0-2 years,10441,182.66,4.81,1109.7,Supplier Beta,B,LOT-448,Dimension Error,3,Defective,1
+B00286,Line A,Morning,256,M12,6+ years,17420,187.49,4.8,1114.1,Supplier Beta,B,LOT-355,None,0,Good,0
+B00287,Line B,Afternoon,158,M11,6+ years,6433,198.93,5.3,1243.8,Supplier Alpha,B,LOT-185,Surface Crack,1,Defective,1
+B00288,Line C,Afternoon,291,M03,6+ years,11030,193.95,4.61,1201.6,Supplier Delta,C,LOT-571,None,0,Good,0
+B00289,Line A,Night,86,M07,0-2 years,3552,194.12,4.37,1272.3,Supplier Alpha,B,LOT-433,None,0,Good,0
+B00290,Line A,Night,155,M12,6+ years,17420,179.87,5.11,1089.4,Supplier Alpha,C,LOT-181,Surface Crack,5,Defective,1
+B00291,Line B,Night,173,M01,3-5 years,5499,195.61,5.43,1340.2,Supplier Alpha,A,LOT-723,None,0,Good,0
+B00292,Line D,Night,102,M10,6+ years,2371,186.63,4.43,1341.1,Supplier Beta,B,LOT-362,None,0,Good,0
+B00293,Line C,Afternoon,225,M05,6+ years,6132,179.28,4.46,1195.6,Supplier Alpha,B,LOT-959,Dimension Error,1,Defective,1
+B00294,Line A,Morning,176,M11,6+ years,6433,184.57,4.89,1249.7,Supplier Alpha,B,LOT-852,None,0,Good,0
+B00295,Line B,Morning,268,M07,0-2 years,3552,193.72,4.35,1197.7,Supplier Alpha,C,LOT-340,None,0,Good,0
+B00296,Line A,Morning,141,M02,0-2 years,14270,192.08,4.18,1202.0,Supplier Alpha,A,LOT-154,None,0,Good,0
+B00297,Line C,Night,204,M11,6+ years,6433,181.79,5.12,1353.1,Supplier Beta,C,LOT-661,None,0,Good,0
+B00298,Line A,Morning,96,M12,6+ years,17420,183.05,5.51,1162.2,Supplier Delta,A,LOT-314,None,0,Good,0
+B00299,Line A,Afternoon,102,M07,0-2 years,3552,190.32,4.91,1167.8,Supplier Delta,B,LOT-248,None,0,Good,0
+B00300,Line B,Night,175,M10,6+ years,2371,196.21,6.02,1232.6,Supplier Gamma,B,LOT-276,Surface Crack,3,Defective,1
+B00301,Line A,Night,85,M12,6+ years,17420,191.68,4.78,1267.0,Supplier Beta,A,LOT-840,Porosity,3,Defective,1
+B00302,Line D,Afternoon,192,M05,6+ years,6132,187.2,4.98,1211.3,Supplier Alpha,A,LOT-837,None,0,Good,0
+B00303,Line A,Afternoon,215,M03,6+ years,11030,185.4,4.96,1099.4,Supplier Alpha,A,LOT-708,None,0,Good,0
+B00304,Line C,Morning,236,M09,0-2 years,4363,190.13,5.73,1247.3,Supplier Gamma,B,LOT-180,None,0,Good,0
+B00305,Line B,Morning,149,M04,0-2 years,4973,181.25,5.71,1306.4,Supplier Delta,A,LOT-448,None,0,Good,0
+B00306,Line A,Afternoon,225,M07,0-2 years,3552,188.67,4.77,1294.9,Supplier Delta,C,LOT-452,Porosity,6,Defective,1
+B00307,Line B,Morning,194,M10,6+ years,2371,201.16,5.25,1192.5,Supplier Gamma,A,LOT-485,Dimension Error,1,Defective,1
+B00308,Line B,Morning,218,M07,0-2 years,3552,191.37,4.78,1294.1,Supplier Delta,A,LOT-740,Dimension Error,1,Defective,1
+B00309,Line C,Afternoon,180,M10,6+ years,2371,192.45,4.94,1443.0,Supplier Alpha,B,LOT-879,None,0,Good,0
+B00310,Line D,Morning,200,M07,0-2 years,3552,179.74,4.46,997.7,Supplier Alpha,A,LOT-664,None,0,Good,0
+B00311,Line B,Afternoon,193,M10,6+ years,2371,195.54,5.1,1218.3,Supplier Gamma,B,LOT-891,Porosity,1,Defective,1
+B00312,Line B,Morning,164,M08,0-2 years,10441,203.05,5.23,1284.2,Supplier Alpha,B,LOT-504,Surface Crack,7,Defective,1
+B00313,Line C,Afternoon,232,M01,3-5 years,5499,183.32,5.77,1257.3,Supplier Delta,A,LOT-919,Warping,6,Defective,1
+B00314,Line A,Morning,129,M04,0-2 years,4973,196.05,5.41,1330.6,Supplier Alpha,A,LOT-282,None,0,Good,0
+B00315,Line A,Afternoon,111,M07,0-2 years,3552,198.15,5.13,1238.7,Supplier Alpha,A,LOT-116,None,0,Good,0
+B00316,Line B,Morning,201,M03,6+ years,11030,195.55,5.91,1342.3,Supplier Delta,B,LOT-769,Porosity,4,Defective,1
+B00317,Line B,Afternoon,269,M06,3-5 years,571,198.72,5.75,1046.8,Supplier Delta,B,LOT-695,None,0,Good,0
+B00318,Line D,Night,150,M06,3-5 years,571,184.04,4.53,1278.9,Supplier Alpha,A,LOT-445,Warping,1,Defective,1
+B00319,Line C,Night,91,M04,0-2 years,4973,190.26,4.87,1120.0,Supplier Beta,B,LOT-864,None,0,Good,0
+B00320,Line C,Night,123,M12,6+ years,17420,196.54,4.58,1388.5,Supplier Beta,C,LOT-664,Surface Crack,1,Defective,1
+B00321,Line A,Afternoon,131,M08,0-2 years,10441,179.48,5.22,1411.8,Supplier Beta,B,LOT-284,None,0,Good,0
+B00322,Line B,Afternoon,191,M02,0-2 years,14270,197.48,5.0,1215.2,Supplier Gamma,B,LOT-447,Surface Crack,1,Defective,1
+B00323,Line B,Night,121,M08,0-2 years,10441,187.91,6.19,1096.1,Supplier Beta,B,LOT-791,None,0,Good,0
+B00324,Line A,Afternoon,85,M05,6+ years,6132,199.92,4.77,1194.5,Supplier Alpha,C,LOT-893,None,0,Good,0
+B00325,Line A,Morning,260,M05,6+ years,6132,173.75,5.23,1101.4,Supplier Beta,B,LOT-713,Scratch,1,Defective,1
+B00326,Line D,Morning,211,M09,0-2 years,4363,172.87,5.03,1353.0,Supplier Beta,B,LOT-336,None,0,Good,0
+B00327,Line B,Night,91,M09,0-2 years,4363,178.03,5.55,1142.8,Supplier Gamma,B,LOT-851,Dimension Error,5,Defective,1
+B00328,Line D,Afternoon,202,M02,0-2 years,14270,179.65,5.16,1114.1,Supplier Beta,C,LOT-629,None,0,Good,0
+B00329,Line C,Night,226,M03,6+ years,11030,194.47,4.24,1188.6,Supplier Alpha,B,LOT-336,None,0,Good,0
+B00330,Line B,Morning,238,M07,0-2 years,3552,184.78,6.05,1117.0,Supplier Delta,A,LOT-926,None,0,Good,0
+B00331,Line D,Night,90,M01,3-5 years,5499,182.95,4.71,1343.5,Supplier Alpha,C,LOT-239,Surface Crack,2,Defective,1
+B00332,Line B,Afternoon,203,M02,0-2 years,14270,200.55,4.99,1329.6,Supplier Delta,B,LOT-589,None,0,Good,0
+B00333,Line B,Afternoon,210,M04,0-2 years,4973,187.91,5.0,1377.3,Supplier Beta,C,LOT-809,Surface Crack,2,Defective,1
+B00334,Line C,Afternoon,90,M07,0-2 years,3552,189.87,5.11,1183.2,Supplier Gamma,A,LOT-982,None,0,Good,0
+B00335,Line A,Afternoon,80,M07,0-2 years,3552,187.84,5.4,1341.9,Supplier Beta,A,LOT-997,None,0,Good,0
+B00336,Line C,Night,252,M06,3-5 years,571,178.75,4.63,1110.5,Supplier Beta,B,LOT-307,Porosity,4,Defective,1
+B00337,Line D,Morning,191,M10,6+ years,2371,190.9,5.07,1253.2,Supplier Delta,A,LOT-616,None,0,Good,0
+B00338,Line C,Morning,279,M07,0-2 years,3552,183.0,4.63,975.5,Supplier Gamma,B,LOT-444,Warping,1,Defective,1
+B00339,Line C,Night,106,M10,6+ years,2371,192.69,6.38,1362.6,Supplier Alpha,A,LOT-732,Warping,1,Defective,1
+B00340,Line C,Night,273,M06,3-5 years,571,172.05,4.79,1154.6,Supplier Beta,A,LOT-639,None,0,Good,0
+B00341,Line A,Night,191,M06,3-5 years,571,183.61,5.14,1164.3,Supplier Beta,B,LOT-891,Dimension Error,7,Defective,1
+B00342,Line B,Morning,87,M04,0-2 years,4973,193.2,5.11,1273.1,Supplier Gamma,B,LOT-238,None,0,Good,0
+B00343,Line B,Afternoon,113,M12,6+ years,17420,198.62,5.62,1161.5,Supplier Beta,A,LOT-113,Porosity,4,Defective,1
+B00344,Line C,Morning,99,M04,0-2 years,4973,180.1,5.68,1163.3,Supplier Delta,A,LOT-977,Porosity,1,Defective,1
+B00345,Line A,Afternoon,249,M01,3-5 years,5499,183.89,4.86,875.0,Supplier Beta,A,LOT-459,Dimension Error,1,Defective,1
+B00346,Line B,Morning,258,M12,6+ years,17420,195.45,4.39,1184.9,Supplier Alpha,B,LOT-465,Scratch,5,Defective,1
+B00347,Line D,Morning,276,M02,0-2 years,14270,164.11,4.26,1242.1,Supplier Alpha,C,LOT-747,Surface Crack,1,Defective,1
+B00348,Line B,Night,240,M03,6+ years,11030,195.08,6.19,1101.4,Supplier Gamma,A,LOT-320,Dimension Error,7,Defective,1
+B00349,Line C,Night,252,M07,0-2 years,3552,179.19,4.55,1325.6,Supplier Beta,A,LOT-951,None,0,Good,0
+B00350,Line D,Afternoon,277,M09,0-2 years,4363,180.87,5.4,1128.2,Supplier Beta,A,LOT-426,None,0,Good,0
+B00351,Line C,Morning,105,M04,0-2 years,4973,183.61,4.78,1055.7,Supplier Beta,B,LOT-311,None,0,Good,0
+B00352,Line B,Morning,160,M11,6+ years,6433,189.96,6.6,1330.3,Supplier Gamma,B,LOT-232,Dimension Error,3,Defective,1
+B00353,Line C,Night,184,M12,6+ years,17420,183.05,4.75,1164.8,Supplier Gamma,B,LOT-890,Surface Crack,5,Defective,1
+B00354,Line C,Morning,279,M07,0-2 years,3552,175.78,4.43,1042.6,Supplier Alpha,B,LOT-422,None,0,Good,0
+B00355,Line A,Night,152,M11,6+ years,6433,185.26,5.29,1009.2,Supplier Gamma,A,LOT-187,Dimension Error,2,Defective,1
+B00356,Line C,Night,196,M03,6+ years,11030,193.35,5.69,1257.3,Supplier Alpha,A,LOT-604,None,0,Good,0
+B00357,Line D,Morning,298,M09,0-2 years,4363,187.91,4.87,1257.3,Supplier Gamma,A,LOT-686,None,0,Good,0
+B00358,Line A,Afternoon,115,M03,6+ years,11030,182.98,5.02,1275.9,Supplier Delta,A,LOT-809,Porosity,1,Defective,1
+B00359,Line C,Afternoon,292,M07,0-2 years,3552,178.57,3.52,1341.5,Supplier Gamma,C,LOT-582,Dimension Error,6,Defective,1
+B00360,Line C,Afternoon,101,M05,6+ years,6132,194.08,5.07,1333.8,Supplier Beta,C,LOT-768,None,0,Good,0
+B00361,Line A,Night,179,M05,6+ years,6132,186.57,3.51,949.2,Supplier Alpha,A,LOT-703,None,0,Good,0
+B00362,Line B,Morning,203,M10,6+ years,2371,184.26,5.1,1343.6,Supplier Beta,A,LOT-721,None,0,Good,0
+B00363,Line A,Morning,126,M08,0-2 years,10441,189.16,4.13,1162.2,Supplier Beta,A,LOT-148,Surface Crack,1,Defective,1
+B00364,Line C,Afternoon,225,M02,0-2 years,14270,170.84,4.34,1198.9,Supplier Gamma,A,LOT-912,None,0,Good,0
+B00365,Line A,Afternoon,262,M05,6+ years,6132,177.67,5.94,1355.0,Supplier Alpha,B,LOT-598,None,0,Good,0
+B00366,Line B,Morning,297,M09,0-2 years,4363,189.28,5.59,1203.0,Supplier Gamma,A,LOT-428,None,0,Good,0
+B00367,Line B,Afternoon,116,M08,0-2 years,10441,200.05,4.77,1054.0,Supplier Delta,A,LOT-782,Porosity,2,Defective,1
+B00368,Line C,Morning,229,M05,6+ years,6132,181.47,5.25,1243.5,Supplier Beta,C,LOT-120,Warping,5,Defective,1
+B00369,Line C,Afternoon,148,M04,0-2 years,4973,202.44,5.46,1210.6,Supplier Alpha,B,LOT-659,None,0,Good,0
+B00370,Line A,Night,194,M08,0-2 years,10441,177.52,4.55,1322.4,Supplier Alpha,A,LOT-111,None,0,Good,0
+B00371,Line C,Night,128,M12,6+ years,17420,199.09,3.82,1150.7,Supplier Gamma,A,LOT-731,Surface Crack,8,Defective,1
+B00372,Line B,Morning,259,M04,0-2 years,4973,197.34,5.12,1283.1,Supplier Gamma,A,LOT-465,None,0,Good,0
+B00373,Line A,Afternoon,105,M03,6+ years,11030,186.59,5.14,1120.6,Supplier Gamma,A,LOT-109,None,0,Good,0
+B00374,Line C,Night,95,M02,0-2 years,14270,183.36,5.84,1337.6,Supplier Delta,A,LOT-819,None,0,Good,0
+B00375,Line B,Night,269,M02,0-2 years,14270,188.83,5.22,1128.7,Supplier Beta,B,LOT-822,Dimension Error,7,Defective,1
+B00376,Line C,Morning,141,M07,0-2 years,3552,185.94,4.85,1160.9,Supplier Beta,A,LOT-302,None,0,Good,0
+B00377,Line B,Morning,290,M07,0-2 years,3552,190.42,5.36,1274.2,Supplier Delta,C,LOT-464,None,0,Good,0
+B00378,Line B,Morning,193,M08,0-2 years,10441,189.06,5.05,1289.6,Supplier Beta,B,LOT-141,Surface Crack,6,Defective,1
+B00379,Line D,Morning,124,M08,0-2 years,10441,187.04,5.76,1264.4,Supplier Alpha,A,LOT-963,Surface Crack,1,Defective,1
+B00380,Line B,Afternoon,155,M12,6+ years,17420,202.75,4.34,1167.4,Supplier Alpha,A,LOT-976,Surface Crack,3,Defective,1
+B00381,Line D,Morning,255,M02,0-2 years,14270,180.29,3.78,1263.3,Supplier Delta,A,LOT-693,Scratch,2,Defective,1
+B00382,Line C,Afternoon,151,M04,0-2 years,4973,180.09,4.79,1258.4,Supplier Beta,A,LOT-668,Scratch,8,Defective,1
+B00383,Line A,Morning,294,M06,3-5 years,571,184.96,5.68,1378.2,Supplier Alpha,A,LOT-498,None,0,Good,0
+B00384,Line B,Morning,248,M08,0-2 years,10441,189.02,4.95,1238.1,Supplier Delta,B,LOT-133,Surface Crack,1,Defective,1
+B00385,Line B,Afternoon,232,M04,0-2 years,4973,191.62,5.45,1154.4,Supplier Beta,C,LOT-991,None,0,Good,0
+B00386,Line D,Morning,242,M03,6+ years,11030,188.76,4.93,1109.7,Supplier Gamma,B,LOT-823,None,0,Good,0
+B00387,Line B,Afternoon,273,M10,6+ years,2371,187.29,5.27,1049.6,Supplier Beta,A,LOT-893,None,0,Good,0
+B00388,Line C,Night,116,M06,3-5 years,571,196.92,4.99,1354.2,Supplier Delta,A,LOT-496,Scratch,1,Defective,1
+B00389,Line C,Afternoon,109,M06,3-5 years,571,186.26,5.56,1236.5,Supplier Alpha,A,LOT-339,None,0,Good,0
+B00390,Line A,Night,175,M03,6+ years,11030,185.64,4.28,1267.3,Supplier Beta,C,LOT-324,Dimension Error,1,Defective,1
+B00391,Line D,Afternoon,174,M06,3-5 years,571,180.16,5.44,1035.9,Supplier Delta,C,LOT-602,Dimension Error,8,Defective,1
+B00392,Line D,Morning,128,M05,6+ years,6132,187.61,4.46,1097.0,Supplier Beta,C,LOT-595,Warping,1,Defective,1
+B00393,Line B,Afternoon,121,M07,0-2 years,3552,183.65,5.11,1258.4,Supplier Alpha,C,LOT-567,Warping,1,Defective,1
+B00394,Line D,Night,278,M03,6+ years,11030,175.75,5.64,1466.9,Supplier Delta,B,LOT-724,None,0,Good,0
+B00395,Line D,Afternoon,81,M08,0-2 years,10441,189.49,4.78,1321.1,Supplier Alpha,A,LOT-996,None,0,Good,0
+B00396,Line B,Afternoon,219,M02,0-2 years,14270,212.24,5.28,1303.9,Supplier Gamma,B,LOT-494,None,0,Good,0
+B00397,Line C,Night,202,M10,6+ years,2371,191.59,5.29,1057.2,Supplier Alpha,B,LOT-523,None,0,Good,0
+B00398,Line B,Night,278,M09,0-2 years,4363,188.6,5.69,1310.0,Unknown,Unknown,,None,0,Good,0
+B00399,Line A,Afternoon,257,M12,6+ years,17420,184.18,4.48,1183.0,Supplier Delta,A,LOT-516,None,0,Good,0
+B00400,Line A,Morning,237,M04,0-2 years,4973,178.67,5.11,1251.4,Supplier Alpha,A,LOT-640,None,0,Good,0
+B00401,Line B,Afternoon,88,M06,3-5 years,571,174.67,4.88,974.8,Unknown,Unknown,,Surface Crack,1,Defective,1
+B00402,Line B,Night,160,M06,3-5 years,571,196.93,4.66,1183.9,Supplier Beta,B,LOT-629,None,0,Good,0
+B00403,Line D,Morning,141,M06,3-5 years,571,184.3,5.27,1307.8,Supplier Gamma,A,LOT-210,None,0,Good,0
+B00404,Line B,Morning,123,M03,6+ years,11030,187.91,5.11,1164.1,Supplier Gamma,C,LOT-861,Warping,2,Defective,1
+B00405,Line B,Afternoon,255,M12,6+ years,17420,182.2,5.35,1259.9,Supplier Gamma,B,LOT-849,None,0,Good,0
+B00406,Line C,Morning,104,M09,0-2 years,4363,182.65,5.46,1187.3,Supplier Beta,A,LOT-504,Surface Crack,1,Defective,1
+B00407,Line C,Night,85,M02,0-2 years,14270,185.17,6.12,1233.1,Supplier Gamma,A,LOT-757,None,0,Good,0
+B00408,Line A,Morning,258,M07,0-2 years,3552,186.26,4.01,1203.7,Supplier Gamma,C,LOT-231,Surface Crack,1,Defective,1
+B00409,Line C,Morning,209,M05,6+ years,6132,191.23,6.51,1243.8,Unknown,Unknown,,None,0,Good,0
+B00410,Line D,Afternoon,112,M05,6+ years,6132,173.44,5.03,1148.4,Supplier Alpha,B,LOT-939,None,0,Good,0
+B00411,Line C,Afternoon,270,M08,0-2 years,10441,190.5,4.52,1171.8,Supplier Delta,B,LOT-577,None,0,Good,0
+B00412,Line B,Afternoon,151,M04,0-2 years,4973,191.91,5.41,1260.6,Supplier Alpha,A,LOT-149,None,0,Good,0
+B00413,Line B,Morning,120,M05,6+ years,6132,188.58,4.51,1121.1,Supplier Beta,A,LOT-464,None,0,Good,0
+B00414,Line B,Night,168,M10,6+ years,2371,187.91,5.09,1102.2,Supplier Delta,A,LOT-548,Scratch,3,Defective,1
+B00415,Line B,Afternoon,171,M12,6+ years,17420,198.47,5.98,1202.0,Supplier Beta,B,LOT-548,Dimension Error,1,Defective,1
+B00416,Line C,Night,99,M10,6+ years,2371,193.35,5.32,1252.1,Supplier Alpha,B,LOT-534,Scratch,1,Defective,1
+B00417,Line C,Morning,139,M03,6+ years,11030,187.91,5.32,1186.6,Supplier Delta,A,LOT-736,None,0,Good,0
+B00418,Line B,Afternoon,293,M02,0-2 years,14270,195.81,5.81,1334.1,Supplier Gamma,B,LOT-754,Surface Crack,1,Defective,1
+B00419,Line B,Afternoon,158,M03,6+ years,11030,191.5,5.53,1078.7,Supplier Alpha,A,LOT-521,None,0,Good,0
+B00420,Line B,Night,229,M05,6+ years,6132,184.09,4.93,1077.9,Supplier Delta,C,LOT-640,None,0,Good,0
+B00421,Line D,Morning,118,M10,6+ years,2371,177.54,3.97,1334.2,Supplier Alpha,B,LOT-202,Warping,1,Defective,1
+B00422,Line B,Afternoon,166,M07,0-2 years,3552,194.8,5.94,1186.6,Supplier Gamma,A,LOT-853,Dimension Error,0,Good,0
+B00423,Line B,Night,258,M05,6+ years,6132,188.54,4.83,1230.7,Supplier Beta,A,LOT-872,Surface Crack,3,Defective,1
+B00424,Line C,Night,191,M08,0-2 years,10441,187.7,5.53,976.3,Supplier Delta,B,LOT-497,Scratch,1,Defective,1
+B00425,Line C,Morning,215,M03,6+ years,11030,198.84,4.54,1417.7,Supplier Alpha,B,LOT-822,Dimension Error,2,Defective,1
+B00426,Line A,Afternoon,216,M12,6+ years,17420,173.83,5.45,1041.9,Supplier Beta,C,LOT-361,Surface Crack,8,Defective,1
+B00427,Line B,Morning,144,M05,6+ years,6132,187.02,5.95,1051.9,Supplier Beta,A,LOT-831,Warping,5,Defective,1
+B00428,Line B,Afternoon,235,M03,6+ years,11030,197.47,5.89,1133.5,Supplier Gamma,A,LOT-625,Porosity,4,Defective,1
+B00429,Line C,Morning,161,M08,0-2 years,10441,186.84,5.0,1156.1,Supplier Beta,B,LOT-916,None,0,Good,0
+B00430,Line B,Afternoon,95,M08,0-2 years,10441,191.94,4.52,1395.1,Supplier Beta,A,LOT-738,Dimension Error,1,Defective,1
+B00431,Line B,Night,210,M06,3-5 years,571,194.95,5.11,1182.2,Supplier Delta,A,LOT-935,Warping,8,Defective,1
+B00432,Line B,Morning,201,M12,6+ years,17420,185.03,3.94,1203.4,Supplier Gamma,B,LOT-301,Dimension Error,8,Defective,1
+B00433,Line A,Morning,248,M05,6+ years,6132,186.92,5.23,1359.9,Supplier Gamma,A,LOT-490,None,0,Good,0
+B00434,Line D,Night,156,M10,6+ years,2371,183.21,4.76,1263.3,Supplier Gamma,B,LOT-847,Warping,2,Defective,1
+B00435,Line A,Morning,288,M07,0-2 years,3552,176.99,5.7,1186.1,Supplier Gamma,A,LOT-271,Porosity,1,Defective,1
+B00436,Line B,Morning,278,M01,3-5 years,5499,190.37,5.57,1237.0,Supplier Alpha,A,LOT-472,Scratch,7,Defective,1
+B00437,Line D,Night,156,M02,0-2 years,14270,176.16,4.92,1403.0,Supplier Gamma,A,LOT-162,None,0,Good,0
+B00438,Line A,Night,285,M01,3-5 years,5499,180.0,5.36,1017.5,Supplier Gamma,A,LOT-971,Surface Crack,8,Defective,1
+B00439,Line D,Night,177,M01,3-5 years,5499,187.91,4.44,1121.3,Supplier Alpha,A,LOT-469,Scratch,1,Defective,1
+B00440,Line B,Afternoon,297,M01,3-5 years,5499,189.37,5.28,1167.6,Supplier Alpha,A,LOT-343,None,0,Good,0
+B00441,Line B,Morning,194,M01,3-5 years,5499,194.11,4.97,1088.7,Supplier Delta,B,LOT-561,None,0,Good,0
+B00442,Line A,Morning,178,M02,0-2 years,14270,176.96,4.67,1304.5,Supplier Alpha,B,LOT-962,None,0,Good,0
+B00443,Line A,Night,170,M09,0-2 years,4363,195.3,5.34,1091.2,Supplier Delta,A,LOT-388,None,0,Good,0
+B00444,Line B,Afternoon,295,M06,3-5 years,571,195.08,4.79,1219.1,Supplier Delta,A,LOT-657,Surface Crack,3,Defective,1
+B00445,Line B,Morning,294,M02,0-2 years,14270,192.11,6.28,1273.2,Supplier Gamma,B,LOT-445,None,0,Good,0
+B00446,Line C,Morning,163,M10,6+ years,2371,191.01,4.85,1158.2,Supplier Delta,B,LOT-571,Dimension Error,6,Defective,1
+B00447,Line B,Morning,107,M09,0-2 years,4363,182.66,5.0,1146.8,Supplier Beta,A,LOT-946,Dimension Error,1,Defective,1
+B00448,Line B,Morning,136,M05,6+ years,6132,199.9,5.51,1317.5,Supplier Beta,B,LOT-295,Porosity,1,Defective,1
+B00449,Line A,Night,217,M02,0-2 years,14270,187.0,5.11,1059.4,Supplier Gamma,A,LOT-881,None,0,Good,0
+B00450,Line C,Afternoon,156,M02,0-2 years,14270,190.26,4.86,1028.8,Supplier Beta,A,LOT-769,None,0,Good,0
+B00451,Line A,Night,94,M02,0-2 years,14270,192.56,4.51,1124.0,Supplier Delta,C,LOT-169,None,0,Good,0
+B00452,Line D,Night,272,M06,3-5 years,571,189.5,4.58,1190.3,Supplier Gamma,A,LOT-698,Surface Crack,6,Defective,1
+B00453,Line B,Afternoon,278,M02,0-2 years,14270,200.1,6.45,1195.1,Unknown,Unknown,,Dimension Error,8,Defective,1
+B00454,Line B,Morning,86,M09,0-2 years,4363,192.19,5.75,1095.1,Supplier Alpha,B,LOT-795,None,0,Good,0
+B00455,Line A,Night,251,M11,6+ years,6433,190.8,4.46,1362.3,Supplier Delta,A,LOT-177,Surface Crack,5,Defective,1
+B00456,Line C,Night,219,M09,0-2 years,4363,188.83,4.24,1136.5,Supplier Beta,C,LOT-428,None,0,Good,0
+B00457,Line B,Afternoon,96,M02,0-2 years,14270,181.96,5.43,1316.9,Supplier Gamma,A,LOT-797,Dimension Error,8,Defective,1
+B00458,Line A,Morning,115,M04,0-2 years,4973,172.97,4.44,1224.2,Supplier Delta,A,LOT-686,None,0,Good,0
+B00459,Line D,Afternoon,289,M07,0-2 years,3552,190.34,5.04,1187.0,Supplier Gamma,A,LOT-354,None,0,Good,0
+B00460,Line D,Morning,80,M01,3-5 years,5499,183.61,5.94,1155.9,Supplier Alpha,A,LOT-611,Warping,4,Defective,1
+B00461,Line A,Morning,260,M07,0-2 years,3552,186.8,5.8,1008.8,Supplier Gamma,B,LOT-763,Porosity,8,Defective,1
+B00462,Line A,Night,175,M07,0-2 years,3552,185.34,4.79,1226.6,Supplier Gamma,A,LOT-384,Warping,1,Defective,1
+B00463,Line C,Night,298,M11,6+ years,6433,191.12,5.74,1164.9,Supplier Beta,B,LOT-514,Warping,3,Defective,1
+B00464,Line B,Afternoon,208,M08,0-2 years,10441,193.29,5.2,952.3,Supplier Delta,B,LOT-287,Surface Crack,4,Defective,1
+B00465,Line C,Morning,179,M05,6+ years,6132,188.71,4.64,1270.8,Supplier Gamma,B,LOT-655,None,0,Good,0
+B00466,Line D,Afternoon,234,M05,6+ years,6132,182.58,5.79,1007.0,Supplier Beta,B,LOT-392,None,0,Good,0
+B00467,Line B,Night,122,M02,0-2 years,14270,197.08,4.42,1268.7,Supplier Gamma,A,LOT-951,Surface Crack,1,Defective,1
+B00468,Line B,Morning,222,M12,6+ years,17420,181.4,5.66,1032.8,Supplier Gamma,B,LOT-149,None,0,Good,0
+B00469,Line C,Night,115,M02,0-2 years,14270,184.77,5.68,1183.4,Supplier Beta,C,LOT-763,Surface Crack,3,Defective,1
+B00470,Line D,Afternoon,230,M01,3-5 years,5499,183.46,4.73,1122.6,Supplier Gamma,B,LOT-949,Dimension Error,1,Defective,1
+B00471,Line B,Afternoon,179,M08,0-2 years,10441,182.15,4.74,1377.1,Supplier Beta,C,LOT-315,Dimension Error,5,Defective,1
+B00472,Line C,Afternoon,86,M10,6+ years,2371,170.9,3.96,1403.1,Supplier Beta,B,LOT-601,None,0,Good,0
+B00473,Line D,Morning,208,M03,6+ years,11030,176.67,5.93,1011.8,Supplier Beta,C,LOT-690,Surface Crack,1,Defective,1
+B00474,Line B,Morning,181,M01,3-5 years,5499,186.72,6.44,1203.6,Supplier Gamma,A,LOT-863,Dimension Error,6,Defective,1
+B00475,Line D,Afternoon,215,M08,0-2 years,10441,195.95,5.11,1206.0,Supplier Alpha,A,LOT-287,Porosity,4,Defective,1
+B00476,Line C,Night,133,M09,0-2 years,4363,179.97,3.96,1273.6,Supplier Delta,A,LOT-671,None,0,Good,0
+B00477,Line B,Afternoon,192,M07,0-2 years,3552,191.86,5.05,1299.8,Supplier Gamma,B,LOT-803,Dimension Error,1,Defective,1
+B00478,Line B,Afternoon,188,M03,6+ years,11030,190.18,6.17,1106.7,Supplier Gamma,A,LOT-255,Dimension Error,1,Defective,1
+B00479,Line C,Night,180,M09,0-2 years,4363,183.25,5.58,1214.1,Supplier Gamma,A,LOT-478,None,0,Good,0
+B00480,Line A,Night,232,M04,0-2 years,4973,189.42,4.85,1337.6,Supplier Delta,C,LOT-110,Dimension Error,4,Defective,1
+B00481,Line A,Morning,96,M05,6+ years,6132,186.17,4.58,1435.9,Supplier Gamma,C,LOT-726,Dimension Error,1,Defective,1
+B00482,Line A,Afternoon,237,M12,6+ years,17420,187.91,5.51,1225.5,Supplier Beta,B,LOT-538,None,0,Good,0
+B00483,Line A,Afternoon,291,M11,6+ years,6433,191.07,5.11,1038.3,Supplier Beta,C,LOT-842,None,0,Good,0
+B00484,Line C,Morning,200,M09,0-2 years,4363,186.59,4.88,1141.7,Supplier Beta,A,LOT-913,None,0,Good,0
+B00485,Line C,Afternoon,293,M01,3-5 years,5499,194.0,4.3,1303.2,Supplier Delta,A,LOT-334,None,0,Good,0
+B00486,Line B,Night,216,M10,6+ years,2371,194.98,5.51,1021.0,Supplier Alpha,A,LOT-792,Surface Crack,1,Defective,1
+B00487,Line B,Afternoon,120,M03,6+ years,11030,197.34,5.5,1061.7,Supplier Alpha,C,LOT-936,None,0,Good,0
+B00488,Line C,Morning,204,M04,0-2 years,4973,184.0,4.82,1224.1,Supplier Beta,A,LOT-131,None,0,Good,0
+B00489,Line B,Night,164,M07,0-2 years,3552,191.0,4.06,1021.7,Supplier Delta,C,LOT-290,None,0,Good,0
+B00490,Line A,Morning,203,M04,0-2 years,4973,186.43,5.54,1165.3,Supplier Alpha,A,LOT-238,None,0,Good,0
+B00491,Line A,Morning,248,M03,6+ years,11030,184.07,4.8,1060.2,Supplier Beta,A,LOT-643,None,0,Good,0
+B00492,Line A,Morning,239,M03,6+ years,11030,180.98,5.01,1426.3,Supplier Gamma,B,LOT-951,None,0,Good,0
+B00493,Line B,Afternoon,296,M08,0-2 years,10441,201.01,5.77,1456.3,Supplier Delta,A,LOT-736,Dimension Error,8,Defective,1
+B00494,Line B,Afternoon,152,M02,0-2 years,14270,198.12,5.06,1241.2,Supplier Alpha,A,LOT-925,Porosity,6,Defective,1
+B00495,Line B,Night,112,M09,0-2 years,4363,187.91,5.36,1207.0,Supplier Alpha,A,LOT-744,None,0,Good,0
+B00496,Line B,Morning,116,M11,6+ years,6433,185.99,5.2,1331.8,Supplier Gamma,B,LOT-206,Porosity,1,Defective,1
+B00497,Line A,Morning,132,M06,3-5 years,571,185.18,4.73,1252.1,Supplier Alpha,B,LOT-870,None,0,Good,0
+B00498,Line B,Morning,234,M01,3-5 years,5499,178.22,5.58,967.0,Supplier Gamma,A,LOT-772,Warping,6,Defective,1
+B00499,Line C,Morning,99,M12,6+ years,17420,186.35,5.32,1186.6,Supplier Gamma,A,LOT-165,None,0,Good,0
+B00500,Line B,Afternoon,250,M09,0-2 years,4363,198.1,5.17,1188.9,Supplier Beta,B,LOT-901,Porosity,4,Defective,1
+B00501,Line B,Morning,297,M05,6+ years,6132,190.87,5.45,1102.3,Supplier Gamma,A,LOT-684,None,0,Good,0
+B00502,Line D,Night,280,M10,6+ years,2371,196.54,6.66,1036.3,Supplier Gamma,A,LOT-335,Surface Crack,7,Defective,1
+B00503,Line D,Afternoon,258,M03,6+ years,11030,174.0,5.14,1396.5,Supplier Alpha,A,LOT-671,None,0,Good,0
+B00504,Line D,Night,248,M01,3-5 years,5499,188.41,4.97,1258.7,Supplier Delta,A,LOT-660,None,0,Good,0
+B00505,Line A,Night,212,M03,6+ years,11030,200.95,3.54,1238.4,Supplier Delta,A,LOT-348,None,0,Good,0
+B00506,Line B,Night,269,M01,3-5 years,5499,196.25,5.42,1141.3,Supplier Gamma,A,LOT-491,None,0,Good,0
+B00507,Line D,Afternoon,236,M09,0-2 years,4363,189.19,4.33,1213.3,Supplier Gamma,A,LOT-621,None,0,Good,0
+B00508,Line A,Morning,123,M04,0-2 years,4973,179.91,6.17,1243.6,Supplier Gamma,A,LOT-178,None,0,Good,0
+B00509,Line D,Morning,284,M02,0-2 years,14270,185.5,5.14,1157.5,Supplier Alpha,A,LOT-702,None,0,Good,0
+B00510,Line C,Night,286,M08,0-2 years,10441,189.34,5.49,1120.6,Supplier Delta,A,LOT-230,None,0,Good,0
+B00511,Line A,Morning,143,M05,6+ years,6132,191.03,3.25,1243.5,Supplier Gamma,A,LOT-542,None,0,Good,0
+B00512,Line A,Afternoon,196,M06,3-5 years,571,180.87,5.06,1436.5,Supplier Gamma,B,LOT-241,Warping,1,Defective,1
+B00513,Line D,Afternoon,292,M07,0-2 years,3552,182.9,5.18,1236.7,Supplier Alpha,B,LOT-966,None,0,Good,0
+B00514,Line D,Morning,263,M06,3-5 years,571,182.21,4.58,1063.3,Supplier Alpha,A,LOT-391,None,0,Good,0
+B00515,Line D,Afternoon,175,M02,0-2 years,14270,190.74,5.11,1295.0,Supplier Beta,A,LOT-691,None,0,Good,0
+B00516,Line C,Morning,221,M12,6+ years,17420,199.29,5.37,1131.8,Supplier Alpha,B,LOT-966,Warping,4,Defective,1
+B00517,Line A,Morning,115,M11,6+ years,6433,184.78,4.95,1149.7,Supplier Beta,B,LOT-183,None,0,Good,0
+B00518,Line B,Morning,204,M10,6+ years,2371,192.77,4.77,1272.7,Supplier Beta,A,LOT-274,None,0,Good,0
+B00519,Line D,Night,107,M10,6+ years,2371,198.11,5.76,1281.9,Supplier Delta,A,LOT-720,None,0,Good,0
+B00520,Line D,Night,195,M01,3-5 years,5499,183.03,5.22,1174.4,Supplier Beta,A,LOT-843,Warping,1,Defective,1
+B00521,Line C,Afternoon,200,M02,0-2 years,14270,187.91,5.27,1256.8,Supplier Alpha,A,LOT-542,Surface Crack,3,Defective,1
+B00522,Line B,Night,107,M01,3-5 years,5499,201.94,5.38,1048.7,Supplier Delta,B,LOT-707,Dimension Error,1,Defective,1
+B00523,Line A,Night,136,M07,0-2 years,3552,179.71,4.64,1198.3,Supplier Beta,A,LOT-419,None,0,Good,0
+B00524,Line A,Afternoon,108,M05,6+ years,6132,194.52,4.44,1072.3,Supplier Alpha,B,LOT-880,None,0,Good,0
+B00525,Line D,Night,157,M01,3-5 years,5499,192.0,5.48,972.7,Supplier Beta,B,LOT-862,Porosity,6,Defective,1
+B00526,Line B,Night,120,M11,6+ years,6433,187.94,5.31,1078.6,Supplier Beta,A,LOT-420,None,0,Good,0
+B00527,Line D,Morning,298,M08,0-2 years,10441,183.45,5.65,1248.3,Supplier Alpha,B,LOT-313,None,0,Good,0
+B00528,Line B,Morning,207,M02,0-2 years,14270,193.1,5.51,1181.9,Supplier Delta,A,LOT-900,Porosity,6,Defective,1
+B00529,Line C,Morning,131,M10,6+ years,2371,183.2,4.67,1051.4,Supplier Beta,B,LOT-914,Surface Crack,8,Defective,1
+B00530,Line C,Morning,230,M08,0-2 years,10441,189.85,4.88,989.9,Supplier Alpha,B,LOT-791,None,0,Good,0
+B00531,Line B,Afternoon,271,M06,3-5 years,571,182.41,5.56,1338.0,Supplier Alpha,C,LOT-630,None,0,Good,0
+B00532,Line B,Afternoon,195,M11,6+ years,6433,196.1,5.14,1267.9,Supplier Gamma,A,LOT-579,Dimension Error,5,Defective,1
+B00533,Line B,Morning,209,M10,6+ years,2371,189.8,5.43,1237.0,Supplier Beta,A,LOT-693,Porosity,0,Good,0
+B00534,Line A,Morning,136,M06,3-5 years,571,191.62,5.4,1279.3,Supplier Gamma,A,LOT-367,Surface Crack,6,Defective,1
+B00535,Line C,Night,115,M09,0-2 years,4363,193.98,4.5,1011.4,Supplier Alpha,C,LOT-366,None,0,Good,0
+B00536,Line A,Night,148,M03,6+ years,11030,187.68,5.51,1331.9,Supplier Delta,C,LOT-346,Dimension Error,1,Defective,1
+B00537,Line B,Morning,177,M09,0-2 years,4363,187.78,5.65,1164.5,Supplier Delta,A,LOT-279,None,0,Good,0
+B00538,Line A,Morning,137,M06,3-5 years,571,191.63,4.79,1220.9,Supplier Delta,A,LOT-903,None,0,Good,0
+B00539,Line C,Night,248,M11,6+ years,6433,186.83,5.65,1109.6,Supplier Gamma,B,LOT-890,Scratch,2,Defective,1
+B00540,Line D,Afternoon,123,M08,0-2 years,10441,182.48,5.63,1072.2,Supplier Alpha,A,LOT-972,None,0,Good,0
+B00541,Line D,Afternoon,248,M09,0-2 years,4363,185.85,4.68,1255.6,Supplier Beta,B,LOT-781,None,0,Good,0
+B00542,Line C,Morning,206,M11,6+ years,6433,195.39,5.27,1203.4,Supplier Gamma,A,LOT-918,Surface Crack,4,Defective,1
+B00543,Line B,Morning,128,M05,6+ years,6132,188.57,4.9,1067.1,Supplier Gamma,A,LOT-364,Dimension Error,2,Defective,1
+B00544,Line C,Night,113,M03,6+ years,11030,186.7,4.56,1275.2,Supplier Beta,A,LOT-821,Dimension Error,1,Defective,1
+B00545,Line B,Afternoon,217,M12,6+ years,17420,192.47,5.78,1338.6,Supplier Beta,A,LOT-208,Porosity,5,Defective,1
+B00546,Line B,Morning,83,M06,3-5 years,571,198.87,5.37,1248.3,Supplier Beta,B,LOT-646,None,0,Good,0
+B00547,Line C,Night,296,M09,0-2 years,4363,196.46,4.85,1215.9,Supplier Gamma,A,LOT-627,None,0,Good,0
+B00548,Line C,Morning,242,M11,6+ years,6433,188.79,5.36,1302.9,Supplier Alpha,A,LOT-799,Scratch,6,Defective,1
+B00549,Line A,Afternoon,223,M10,6+ years,2371,186.58,3.53,1275.4,Supplier Gamma,A,LOT-311,None,0,Good,0
+B00550,Line A,Night,276,M10,6+ years,2371,188.56,4.46,1050.7,Supplier Delta,B,LOT-643,None,0,Good,0
+B00551,Line C,Morning,82,M05,6+ years,6132,195.44,6.09,1444.4,Supplier Beta,B,LOT-287,None,0,Good,0
+B00552,Line C,Afternoon,238,M10,6+ years,2371,191.98,5.21,1186.4,Supplier Delta,A,LOT-337,Warping,8,Defective,1
+B00553,Line D,Morning,144,M10,6+ years,2371,181.59,5.02,1239.6,Supplier Alpha,B,LOT-873,Dimension Error,1,Defective,1
+B00554,Line C,Night,225,M10,6+ years,2371,184.89,4.96,978.6,Supplier Gamma,C,LOT-840,Porosity,7,Defective,1
+B00555,Line D,Night,287,M05,6+ years,6132,184.61,4.52,1173.0,Supplier Alpha,B,LOT-869,Surface Crack,3,Defective,1
+B00556,Line D,Afternoon,91,M11,6+ years,6433,195.24,4.99,1266.2,Supplier Gamma,C,LOT-904,None,0,Good,0
+B00557,Line C,Afternoon,131,M09,0-2 years,4363,192.19,5.7,1514.0,Supplier Alpha,A,LOT-560,None,0,Good,0
+B00558,Line C,Night,178,M10,6+ years,2371,184.04,4.47,921.2,Supplier Beta,A,LOT-819,Dimension Error,1,Defective,1
+B00559,Line C,Afternoon,80,M06,3-5 years,571,176.52,4.75,1059.5,Supplier Beta,B,LOT-511,Scratch,1,Defective,1
+B00560,Line A,Afternoon,229,M05,6+ years,6132,188.83,5.71,1410.2,Supplier Gamma,B,LOT-444,Scratch,3,Defective,1
+B00561,Line A,Night,266,M11,6+ years,6433,190.87,4.25,1246.4,Supplier Beta,B,LOT-643,None,0,Good,0
+B00562,Line C,Morning,239,M05,6+ years,6132,188.8,4.07,994.8,Supplier Gamma,A,LOT-628,None,0,Good,0
+B00563,Line B,Morning,123,M09,0-2 years,4363,189.37,5.81,1281.7,Supplier Beta,A,LOT-454,None,0,Good,0
+B00564,Line B,Morning,154,M04,0-2 years,4973,176.33,5.06,1069.0,Supplier Beta,A,LOT-420,None,0,Good,0
+B00565,Line B,Night,208,M05,6+ years,6132,195.74,6.04,1206.3,Supplier Delta,A,LOT-407,Warping,5,Defective,1
+B00566,Line D,Afternoon,128,M11,6+ years,6433,198.82,5.3,1298.8,Supplier Alpha,B,LOT-926,Porosity,4,Defective,1
+B00567,Line B,Afternoon,133,M10,6+ years,2371,186.23,4.95,1299.8,Supplier Delta,B,LOT-684,None,0,Good,0
+B00568,Line B,Night,175,M06,3-5 years,571,193.82,4.99,1097.9,Supplier Gamma,B,LOT-174,Porosity,8,Defective,1
+B00569,Line A,Morning,204,M03,6+ years,11030,191.44,4.85,1156.5,Supplier Beta,A,LOT-979,Dimension Error,4,Defective,1
+B00570,Line A,Afternoon,200,M03,6+ years,11030,180.29,5.41,1248.1,Supplier Beta,A,LOT-456,Warping,1,Defective,1
+B00571,Line B,Morning,192,M01,3-5 years,5499,180.83,4.66,1147.7,Supplier Alpha,A,LOT-449,Scratch,1,Defective,1
+B00572,Line C,Afternoon,298,M11,6+ years,6433,178.52,5.23,1223.4,Supplier Beta,A,LOT-848,None,0,Good,0
+B00573,Line D,Morning,135,M09,0-2 years,4363,185.1,4.76,1217.0,Supplier Beta,A,LOT-305,Scratch,2,Defective,1
+B00574,Line B,Night,167,M08,0-2 years,10441,192.94,5.71,1060.8,Supplier Beta,B,LOT-282,Surface Crack,7,Defective,1
+B00575,Line D,Night,123,M12,6+ years,17420,180.47,5.33,1123.9,Supplier Delta,C,LOT-446,None,0,Good,0
+B00576,Line C,Morning,155,M09,0-2 years,4363,202.53,4.81,1096.7,Supplier Alpha,B,LOT-234,None,0,Good,0
+B00577,Line D,Night,137,M06,3-5 years,571,175.95,5.43,1043.4,Supplier Beta,C,LOT-955,Warping,1,Defective,1
+B00578,Line C,Night,137,M02,0-2 years,14270,187.91,5.02,1180.1,Supplier Gamma,A,LOT-834,None,0,Good,0
+B00579,Line C,Morning,219,M02,0-2 years,14270,164.6,5.18,1130.1,Supplier Delta,C,LOT-329,Scratch,8,Defective,1
+B00580,Line A,Morning,80,M09,0-2 years,4363,173.46,4.28,1271.1,Supplier Alpha,B,LOT-753,None,0,Good,0
+B00581,Line B,Afternoon,251,M08,0-2 years,10441,195.67,5.38,1072.9,Supplier Beta,B,LOT-738,None,0,Good,0
+B00582,Line B,Morning,218,M12,6+ years,17420,190.05,4.32,1397.6,Supplier Gamma,A,LOT-192,None,0,Good,0
+B00583,Line D,Morning,154,M10,6+ years,2371,190.44,4.98,1165.7,Supplier Beta,A,LOT-142,None,0,Good,0
+B00584,Line B,Morning,180,M07,0-2 years,3552,189.13,5.27,1329.3,Supplier Alpha,A,LOT-587,Dimension Error,1,Defective,1
+B00585,Line C,Night,239,M04,0-2 years,4973,189.07,4.98,1145.2,Supplier Gamma,A,LOT-630,None,0,Good,0
+B00586,Line A,Night,162,M01,3-5 years,5499,197.79,5.34,1038.7,Supplier Delta,A,LOT-544,None,0,Good,0
+B00587,Line B,Morning,219,M04,0-2 years,4973,187.52,5.26,1231.9,Supplier Beta,A,LOT-810,Surface Crack,1,Defective,1
+B00588,Line A,Afternoon,159,M11,6+ years,6433,181.05,5.74,1261.8,Supplier Delta,A,LOT-275,None,0,Good,0
+B00589,Line A,Morning,89,M01,3-5 years,5499,196.72,4.58,1201.0,Supplier Beta,B,LOT-180,Porosity,0,Good,0
+B00590,Line B,Night,108,M05,6+ years,6132,190.37,5.29,1465.1,Supplier Delta,B,LOT-184,Dimension Error,1,Defective,1
+B00591,Line C,Night,262,M05,6+ years,6132,175.62,4.6,1131.8,Supplier Alpha,A,LOT-826,Surface Crack,8,Defective,1
+B00592,Line A,Morning,228,M08,0-2 years,10441,195.76,4.61,1199.0,Supplier Gamma,B,LOT-148,Dimension Error,5,Defective,1
+B00593,Line C,Night,300,M09,0-2 years,4363,196.76,4.0,1349.4,Supplier Beta,A,LOT-901,Porosity,6,Defective,1
+B00594,Line D,Morning,97,M08,0-2 years,10441,173.51,6.16,1294.4,Supplier Beta,B,LOT-609,Surface Crack,6,Defective,1
+B00595,Line D,Morning,188,M01,3-5 years,5499,180.49,5.57,1080.7,Supplier Gamma,A,LOT-818,Warping,3,Defective,1
+B00596,Line B,Night,118,M06,3-5 years,571,185.35,5.59,943.4,Supplier Alpha,A,LOT-964,None,0,Good,0
+B00597,Line D,Night,99,M04,0-2 years,4973,191.11,5.55,1072.5,Supplier Alpha,B,LOT-902,None,0,Good,0
+B00598,Line A,Night,265,M10,6+ years,2371,187.25,4.35,1275.4,Supplier Gamma,A,LOT-638,Dimension Error,7,Defective,1
+B00599,Line C,Morning,264,M11,6+ years,6433,191.0,4.97,1479.0,Supplier Alpha,A,LOT-989,None,0,Good,0
+B00600,Line B,Night,182,M12,6+ years,17420,201.78,5.54,1285.0,Supplier Delta,A,LOT-549,Porosity,8,Defective,1
+B00601,Line C,Afternoon,97,M07,0-2 years,3552,191.17,4.77,1123.7,Supplier Beta,A,LOT-743,None,0,Good,0
+B00602,Line D,Afternoon,215,M08,0-2 years,10441,181.06,4.39,1088.2,Supplier Beta,A,LOT-522,None,0,Good,0
+B00603,Line C,Morning,151,M10,6+ years,2371,187.88,5.27,1258.5,Supplier Beta,C,LOT-990,None,0,Good,0
+B00604,Line A,Night,176,M01,3-5 years,5499,177.78,4.67,1165.0,Supplier Beta,A,LOT-102,Porosity,1,Defective,1
+B00605,Line D,Night,211,M12,6+ years,17420,179.95,4.86,1143.7,Supplier Beta,B,LOT-708,None,0,Good,0
+B00606,Line B,Morning,234,M09,0-2 years,4363,187.07,5.35,1238.7,Supplier Beta,B,LOT-866,None,0,Good,0
+B00607,Line B,Morning,150,M02,0-2 years,14270,190.89,5.36,1139.3,Supplier Gamma,A,LOT-878,Surface Crack,7,Defective,1
+B00608,Line C,Morning,197,M07,0-2 years,3552,187.13,4.12,1336.6,Supplier Beta,A,LOT-817,None,0,Good,0
+B00609,Line A,Afternoon,231,M04,0-2 years,4973,179.54,5.01,1125.2,Supplier Alpha,A,LOT-594,None,0,Good,0
+B00610,Line A,Night,126,M01,3-5 years,5499,185.57,3.99,1154.5,Supplier Gamma,B,LOT-804,None,0,Good,0
+B00611,Line B,Morning,290,M08,0-2 years,10441,180.27,6.36,1161.3,Supplier Beta,A,LOT-207,None,0,Good,0
+B00612,Line C,Night,256,M11,6+ years,6433,186.16,5.25,1366.1,Supplier Gamma,B,LOT-576,Warping,1,Defective,1
+B00613,Line D,Afternoon,225,M04,0-2 years,4973,194.99,4.85,1156.9,Supplier Beta,B,LOT-498,None,0,Good,0
+B00614,Line A,Morning,146,M07,0-2 years,3552,185.06,4.19,1164.6,Supplier Delta,C,LOT-125,Porosity,4,Defective,1
+B00615,Line B,Morning,297,M06,3-5 years,571,190.12,5.09,1195.3,Supplier Gamma,A,LOT-722,None,0,Good,0
+B00616,Line A,Morning,260,M03,6+ years,11030,170.12,5.48,1403.8,Supplier Gamma,A,LOT-975,Surface Crack,1,Defective,1
+B00617,Line C,Night,288,M03,6+ years,11030,189.05,4.89,1175.5,Supplier Beta,A,LOT-929,None,0,Good,0
+B00618,Line A,Afternoon,185,M02,0-2 years,14270,176.05,4.16,1113.0,Supplier Gamma,A,LOT-200,None,0,Good,0
+B00619,Line C,Morning,214,M10,6+ years,2371,204.21,5.23,1210.9,Supplier Delta,A,LOT-899,Scratch,7,Defective,1
+B00620,Line B,Night,150,M10,6+ years,2371,189.79,5.08,1258.3,Supplier Gamma,A,LOT-300,Dimension Error,3,Defective,1
+B00621,Line C,Morning,131,M10,6+ years,2371,186.98,4.81,1375.7,Supplier Alpha,B,LOT-864,None,0,Good,0
+B00622,Line C,Afternoon,282,M08,0-2 years,10441,195.25,5.06,1449.7,Supplier Gamma,A,LOT-117,None,0,Good,0
+B00623,Line D,Night,289,M01,3-5 years,5499,186.26,4.78,1117.1,Supplier Beta,A,LOT-487,Dimension Error,1,Defective,1
+B00624,Line C,Afternoon,284,M11,6+ years,6433,184.59,4.73,1196.6,Supplier Alpha,A,LOT-337,None,0,Good,0
+B00625,Line B,Afternoon,124,M11,6+ years,6433,193.47,5.44,914.4,Supplier Beta,C,LOT-514,None,0,Good,0
+B00626,Line C,Morning,154,M06,3-5 years,571,187.44,5.96,1270.4,Supplier Gamma,A,LOT-209,None,0,Good,0
+B00627,Line B,Night,235,M06,3-5 years,571,199.86,5.37,1169.0,Supplier Beta,A,LOT-333,Surface Crack,3,Defective,1
+B00628,Line B,Morning,152,M12,6+ years,17420,197.61,5.55,1221.6,Supplier Gamma,C,LOT-654,Warping,2,Defective,1
+B00629,Line B,Morning,182,M03,6+ years,11030,177.45,4.47,1063.1,Supplier Beta,C,LOT-160,None,0,Good,0
+B00630,Line A,Morning,275,M10,6+ years,2371,191.01,4.21,883.5,Supplier Alpha,A,LOT-473,None,0,Good,0
+B00631,Line C,Afternoon,118,M08,0-2 years,10441,191.23,5.36,1337.0,Supplier Beta,A,LOT-592,None,0,Good,0
+B00632,Line B,Night,162,M03,6+ years,11030,192.38,5.95,1046.6,Supplier Beta,A,LOT-456,Dimension Error,4,Defective,1
+B00633,Line C,Afternoon,92,M10,6+ years,2371,195.12,4.17,1134.1,Supplier Alpha,C,LOT-504,Surface Crack,1,Defective,1
+B00634,Line B,Afternoon,112,M02,0-2 years,14270,189.19,5.22,1104.6,Supplier Delta,B,LOT-865,Dimension Error,1,Defective,1
+B00635,Line A,Morning,251,M12,6+ years,17420,188.39,5.02,1366.2,Supplier Beta,C,LOT-878,Surface Crack,8,Defective,1
+B00636,Line D,Night,251,M12,6+ years,17420,193.64,5.03,1105.0,Supplier Gamma,A,LOT-477,None,0,Good,0
+B00637,Line C,Morning,173,M11,6+ years,6433,183.15,4.94,1110.9,Supplier Beta,B,LOT-741,None,0,Good,0
+B00638,Line B,Night,233,M10,6+ years,2371,204.26,5.51,1234.2,Supplier Delta,A,LOT-758,None,0,Good,0
+B00639,Line A,Night,288,M11,6+ years,6433,183.17,5.49,1392.3,Supplier Gamma,A,LOT-355,None,0,Good,0
+B00640,Line C,Morning,216,M06,3-5 years,571,190.22,4.66,1312.0,Supplier Beta,C,LOT-245,Porosity,2,Defective,1
+B00641,Line D,Morning,195,M04,0-2 years,4973,187.98,4.63,1143.5,Supplier Gamma,C,LOT-521,Surface Crack,4,Defective,1
+B00642,Line C,Morning,110,M01,3-5 years,5499,182.05,5.14,1186.5,Supplier Beta,A,LOT-844,Warping,8,Defective,1
+B00643,Line C,Morning,143,M10,6+ years,2371,175.76,4.92,835.7,Supplier Gamma,B,LOT-617,Surface Crack,5,Defective,1
+B00644,Line D,Afternoon,187,M06,3-5 years,571,196.02,4.13,1140.1,Supplier Delta,A,LOT-814,None,0,Good,0
+B00645,Line D,Morning,176,M01,3-5 years,5499,182.61,5.15,1134.3,Supplier Beta,B,LOT-370,None,0,Good,0
+B00646,Line A,Morning,283,M03,6+ years,11030,167.3,3.67,1251.5,Supplier Delta,A,LOT-393,Porosity,4,Defective,1
+B00647,Line A,Night,231,M09,0-2 years,4363,181.85,5.02,1070.0,Supplier Alpha,C,LOT-644,None,0,Good,0
+B00648,Line C,Afternoon,252,M07,0-2 years,3552,193.4,4.57,1249.5,Supplier Alpha,C,LOT-431,Porosity,5,Defective,1
+B00649,Line C,Night,238,M08,0-2 years,10441,182.19,5.0,1144.9,Supplier Alpha,A,LOT-222,None,0,Good,0
+B00650,Line A,Morning,107,M06,3-5 years,571,195.71,4.66,1075.3,Supplier Alpha,B,LOT-348,None,0,Good,0
+B00651,Line A,Afternoon,256,M11,6+ years,6433,178.36,3.88,993.1,Supplier Beta,A,LOT-271,None,0,Good,0
+B00652,Line D,Afternoon,299,M01,3-5 years,5499,187.91,5.58,1041.2,Supplier Gamma,A,LOT-323,None,0,Good,0
+B00653,Line B,Morning,139,M11,6+ years,6433,185.89,5.26,1278.6,Supplier Alpha,B,LOT-660,Dimension Error,1,Defective,1
+B00654,Line D,Night,204,M08,0-2 years,10441,191.2,4.31,1198.6,Supplier Delta,A,LOT-464,None,0,Good,0
+B00655,Line D,Afternoon,259,M11,6+ years,6433,186.72,6.24,1071.2,Supplier Gamma,C,LOT-550,Porosity,1,Defective,1
+B00656,Line B,Afternoon,225,M01,3-5 years,5499,184.37,5.46,949.2,Supplier Delta,A,LOT-730,Surface Crack,6,Defective,1
+B00657,Line C,Afternoon,227,M08,0-2 years,10441,187.16,5.79,1161.9,Supplier Delta,B,LOT-590,None,0,Good,0
+B00658,Line A,Afternoon,163,M03,6+ years,11030,187.91,5.55,1064.9,Supplier Alpha,B,LOT-914,None,0,Good,0
+B00659,Line C,Afternoon,245,M07,0-2 years,3552,179.86,5.38,1310.7,Supplier Gamma,A,LOT-339,None,0,Good,0
+B00660,Line C,Morning,207,M02,0-2 years,14270,184.86,5.67,1169.5,Supplier Delta,B,LOT-853,None,0,Good,0
+B00661,Line D,Night,211,M06,3-5 years,571,194.74,4.64,1048.5,Supplier Delta,A,LOT-472,Porosity,1,Defective,1
+B00662,Line A,Morning,259,M02,0-2 years,14270,189.46,4.67,1270.3,Supplier Gamma,C,LOT-934,None,0,Good,0
+B00663,Line D,Morning,124,M06,3-5 years,571,185.67,5.81,1104.5,Supplier Alpha,B,LOT-507,None,0,Good,0
+B00664,Line A,Morning,291,M04,0-2 years,4973,187.91,4.76,1087.7,Supplier Gamma,B,LOT-801,None,0,Good,0
+B00665,Line A,Morning,263,M08,0-2 years,10441,185.42,3.8,1148.7,Supplier Beta,A,LOT-607,None,0,Good,0
+B00666,Line C,Night,284,M06,3-5 years,571,192.63,4.76,1353.8,Supplier Gamma,A,LOT-751,Porosity,7,Defective,1
+B00667,Line A,Night,299,M07,0-2 years,3552,190.55,3.67,1290.5,Supplier Gamma,C,LOT-119,Scratch,6,Defective,1
+B00668,Line C,Night,225,M08,0-2 years,10441,190.02,6.36,1432.3,Supplier Alpha,C,LOT-991,Scratch,1,Defective,1
+B00669,Line B,Afternoon,141,M05,6+ years,6132,180.54,5.19,1005.7,Supplier Alpha,A,LOT-864,Surface Crack,0,Good,0
+B00670,Line A,Afternoon,130,M04,0-2 years,4973,197.16,5.2,1043.2,Supplier Alpha,A,LOT-510,None,0,Good,0
+B00671,Line D,Afternoon,238,M04,0-2 years,4973,173.42,5.26,1320.8,Supplier Beta,B,LOT-582,Scratch,6,Defective,1
+B00672,Line C,Morning,136,M01,3-5 years,5499,185.49,5.24,1321.7,Supplier Delta,C,LOT-941,None,0,Good,0
+B00673,Line C,Afternoon,276,M09,0-2 years,4363,182.5,4.96,1326.7,Supplier Gamma,C,LOT-861,Surface Crack,6,Defective,1
+B00674,Line A,Morning,213,M08,0-2 years,10441,186.32,5.69,1079.6,Supplier Gamma,A,LOT-388,None,0,Good,0
+B00675,Line B,Afternoon,103,M11,6+ years,6433,198.61,5.17,1352.8,Supplier Alpha,B,LOT-320,None,0,Good,0
+B00676,Line C,Night,155,M06,3-5 years,571,187.96,5.06,1167.5,Supplier Gamma,C,LOT-138,Warping,2,Defective,1
+B00677,Line C,Morning,204,M09,0-2 years,4363,189.17,5.73,1261.3,Supplier Beta,C,LOT-945,None,0,Good,0
+B00678,Line C,Night,232,M09,0-2 years,4363,183.94,4.96,1094.1,Supplier Beta,A,LOT-727,Surface Crack,1,Defective,1
+B00679,Line B,Night,145,M08,0-2 years,10441,197.44,5.79,1146.4,Supplier Beta,A,LOT-393,Dimension Error,3,Defective,1
+B00680,Line B,Night,249,M09,0-2 years,4363,186.38,4.9,1265.0,Supplier Delta,A,LOT-184,None,0,Good,0
+B00681,Line A,Night,139,M04,0-2 years,4973,193.77,5.88,1175.9,Unknown,Unknown,,Porosity,1,Defective,1
+B00682,Line C,Afternoon,156,M11,6+ years,6433,176.41,5.26,1163.8,Supplier Gamma,B,LOT-148,None,0,Good,0
+B00683,Line B,Afternoon,295,M06,3-5 years,571,192.66,6.34,1161.4,Supplier Delta,A,LOT-458,Surface Crack,1,Defective,1
+B00684,Line C,Night,295,M04,0-2 years,4973,195.18,5.98,1133.0,Supplier Delta,A,LOT-596,Surface Crack,1,Defective,1
+B00685,Line D,Morning,279,M04,0-2 years,4973,180.71,5.17,1179.5,Supplier Beta,B,LOT-374,None,0,Good,0
+B00686,Line D,Afternoon,227,M07,0-2 years,3552,187.91,4.9,1218.5,Supplier Beta,A,LOT-291,None,0,Good,0
+B00687,Line D,Morning,228,M09,0-2 years,4363,180.52,5.11,1405.7,Supplier Gamma,A,LOT-610,None,0,Good,0
+B00688,Line D,Morning,214,M01,3-5 years,5499,176.76,4.78,1239.7,Supplier Beta,A,LOT-333,None,0,Good,0
+B00689,Line B,Night,85,M02,0-2 years,14270,188.47,4.59,1083.2,Supplier Gamma,B,LOT-875,Warping,3,Defective,1
+B00690,Line A,Night,220,M10,6+ years,2371,194.87,4.02,1055.2,Supplier Gamma,A,LOT-349,None,0,Good,0
+B00691,Line A,Morning,173,M03,6+ years,11030,190.75,3.89,1121.9,Supplier Gamma,A,LOT-875,None,0,Good,0
+B00692,Line B,Afternoon,255,M03,6+ years,11030,184.64,5.21,1238.2,Supplier Delta,A,LOT-697,None,0,Good,0
+B00693,Line B,Morning,152,M09,0-2 years,4363,183.82,5.68,1219.5,Supplier Beta,A,LOT-846,None,0,Good,0
+B00694,Line D,Afternoon,180,M10,6+ years,2371,189.41,4.48,1283.6,Supplier Beta,A,LOT-785,None,0,Good,0
+B00695,Line C,Morning,298,M04,0-2 years,4973,194.22,5.24,1154.4,Supplier Delta,B,LOT-350,Surface Crack,1,Defective,1
+B00696,Line B,Night,163,M04,0-2 years,4973,184.35,4.48,1133.5,Supplier Gamma,C,LOT-827,None,0,Good,0
+B00697,Line D,Afternoon,212,M10,6+ years,2371,188.63,5.25,1001.1,Supplier Alpha,A,LOT-801,None,0,Good,0
+B00698,Line D,Night,100,M02,0-2 years,14270,188.46,5.02,1115.1,Supplier Delta,A,LOT-541,None,0,Good,0
+B00699,Line B,Morning,85,M06,3-5 years,571,178.16,6.11,1031.1,Supplier Alpha,A,LOT-750,None,0,Good,0
+B00700,Line A,Afternoon,249,M08,0-2 years,10441,190.16,4.9,1269.5,Supplier Gamma,B,LOT-904,Scratch,5,Defective,1
+B00701,Line B,Afternoon,269,M06,3-5 years,571,190.4,5.24,1171.5,Supplier Beta,A,LOT-313,Surface Crack,2,Defective,1
+B00702,Line B,Afternoon,136,M09,0-2 years,4363,184.38,5.2,1091.1,Supplier Alpha,A,LOT-789,Scratch,7,Defective,1
+B00703,Line A,Afternoon,131,M01,3-5 years,5499,171.89,4.32,1304.3,Supplier Gamma,A,LOT-302,Dimension Error,8,Defective,1
+B00704,Line D,Morning,260,M02,0-2 years,14270,201.42,5.27,1192.8,Supplier Gamma,A,LOT-173,None,0,Good,0
+B00705,Line B,Morning,293,M08,0-2 years,10441,186.75,4.16,1246.4,Supplier Alpha,A,LOT-629,None,0,Good,0
+B00706,Line B,Morning,166,M03,6+ years,11030,192.09,4.52,1046.0,Supplier Beta,C,LOT-544,None,0,Good,0
+B00707,Line C,Morning,266,M01,3-5 years,5499,175.07,3.94,1183.5,Supplier Gamma,B,LOT-517,None,0,Good,0
+B00708,Line A,Night,178,M10,6+ years,2371,179.18,5.11,1169.6,Supplier Gamma,A,LOT-722,None,0,Good,0
+B00709,Line D,Night,88,M02,0-2 years,14270,201.28,5.06,1261.7,Supplier Beta,A,LOT-485,Warping,1,Defective,1
+B00710,Line A,Afternoon,180,M06,3-5 years,571,196.03,5.17,1116.2,Supplier Delta,B,LOT-142,None,0,Good,0
+B00711,Line C,Morning,155,M10,6+ years,2371,175.96,4.24,1003.4,Supplier Gamma,C,LOT-763,Porosity,1,Defective,1
+B00712,Line A,Afternoon,208,M09,0-2 years,4363,180.81,5.75,1181.9,Supplier Beta,C,LOT-814,Porosity,1,Defective,1
+B00713,Line B,Morning,85,M10,6+ years,2371,184.31,5.16,982.6,Supplier Gamma,B,LOT-614,None,0,Good,0
+B00714,Line A,Night,299,M04,0-2 years,4973,187.91,4.36,1103.5,Supplier Beta,B,LOT-258,Warping,5,Defective,1
+B00715,Line D,Afternoon,254,M01,3-5 years,5499,187.35,5.29,1308.8,Unknown,Unknown,,None,0,Good,0
+B00716,Line D,Night,286,M02,0-2 years,14270,193.29,3.92,1302.9,Supplier Beta,A,LOT-751,None,0,Good,0
+B00717,Line B,Afternoon,274,M12,6+ years,17420,191.48,4.48,1353.8,Supplier Gamma,A,LOT-244,Warping,1,Defective,1
+B00718,Line A,Morning,93,M01,3-5 years,5499,181.09,5.23,1335.1,Supplier Alpha,A,LOT-836,Surface Crack,1,Defective,1
+B00719,Line B,Afternoon,200,M05,6+ years,6132,192.16,5.65,1472.7,Supplier Beta,B,LOT-761,Dimension Error,1,Defective,1
+B00720,Line B,Morning,299,M05,6+ years,6132,183.98,5.08,1427.6,Supplier Delta,A,LOT-370,Scratch,3,Defective,1
+B00721,Line D,Afternoon,98,M11,6+ years,6433,199.5,5.11,1330.7,Supplier Alpha,A,LOT-470,Porosity,3,Defective,1
+B00722,Line C,Morning,198,M09,0-2 years,4363,181.56,4.6,1328.7,Supplier Beta,A,LOT-709,Dimension Error,1,Defective,1
+B00723,Line A,Morning,90,M06,3-5 years,571,187.04,5.32,1186.2,Supplier Delta,B,LOT-960,Surface Crack,4,Defective,1
+B00724,Line C,Night,246,M11,6+ years,6433,178.06,5.97,1349.5,Supplier Delta,A,LOT-622,None,0,Good,0
+B00725,Line B,Afternoon,118,M03,6+ years,11030,194.21,4.92,1276.1,Supplier Beta,B,LOT-574,Dimension Error,7,Defective,1
+B00726,Line C,Night,279,M09,0-2 years,4363,190.44,5.9,1265.6,Supplier Beta,A,LOT-501,Porosity,7,Defective,1
+B00727,Line B,Afternoon,227,M10,6+ years,2371,193.86,5.26,1309.1,Supplier Gamma,B,LOT-322,None,0,Good,0
+B00728,Line A,Night,217,M04,0-2 years,4973,189.35,5.21,1140.9,Supplier Gamma,C,LOT-488,None,0,Good,0
+B00729,Line A,Morning,149,M09,0-2 years,4363,184.45,5.11,1284.1,Supplier Beta,B,LOT-805,None,0,Good,0
+B00730,Line D,Night,153,M04,0-2 years,4973,179.7,4.15,1068.1,Supplier Alpha,A,LOT-799,None,0,Good,0
+B00731,Line C,Night,251,M12,6+ years,17420,198.83,4.82,1288.2,Supplier Beta,B,LOT-945,Surface Crack,0,Good,0
+B00732,Line D,Night,143,M08,0-2 years,10441,191.68,4.96,1326.0,Supplier Beta,C,LOT-265,None,0,Good,0
+B00733,Line A,Night,84,M09,0-2 years,4363,185.51,5.67,1135.3,Supplier Alpha,A,LOT-957,None,0,Good,0
+B00734,Line B,Afternoon,233,M01,3-5 years,5499,182.15,5.88,1129.0,Supplier Alpha,B,LOT-810,Warping,3,Defective,1
+B00735,Line B,Afternoon,256,M04,0-2 years,4973,179.74,5.39,1004.5,Supplier Delta,C,LOT-332,Surface Crack,6,Defective,1
+B00736,Line D,Morning,194,M04,0-2 years,4973,181.7,5.13,1269.8,Supplier Gamma,B,LOT-865,None,0,Good,0
+B00737,Line C,Afternoon,155,M03,6+ years,11030,182.65,5.82,1208.6,Supplier Alpha,C,LOT-834,Porosity,3,Defective,1
+B00738,Line B,Afternoon,101,M08,0-2 years,10441,193.54,5.63,997.5,Supplier Alpha,B,LOT-569,Dimension Error,1,Defective,1
+B00739,Line B,Afternoon,190,M01,3-5 years,5499,187.87,5.02,1324.3,Supplier Alpha,B,LOT-625,Porosity,8,Defective,1
+B00740,Line A,Morning,90,M04,0-2 years,4973,180.79,4.66,1063.6,Supplier Gamma,C,LOT-649,Dimension Error,1,Defective,1
+B00741,Line B,Afternoon,207,M10,6+ years,2371,175.11,5.51,1026.9,Supplier Gamma,A,LOT-541,Scratch,1,Defective,1
+B00742,Line D,Night,103,M10,6+ years,2371,188.1,5.02,1223.9,Supplier Gamma,C,LOT-122,Surface Crack,1,Defective,1
+B00743,Line D,Morning,200,M03,6+ years,11030,199.83,5.33,1136.2,Supplier Gamma,B,LOT-298,None,0,Good,0
+B00744,Line C,Morning,214,M10,6+ years,2371,181.38,4.85,1227.9,Supplier Delta,C,LOT-398,None,0,Good,0
+B00745,Line D,Afternoon,201,M10,6+ years,2371,179.9,5.32,1261.7,Supplier Alpha,C,LOT-175,None,0,Good,0
+B00746,Line D,Morning,287,M03,6+ years,11030,193.37,5.51,1073.1,Supplier Beta,A,LOT-343,None,0,Good,0
+B00747,Line B,Night,81,M03,6+ years,11030,198.15,5.33,1332.8,Supplier Beta,A,LOT-421,None,0,Good,0
+B00748,Line C,Afternoon,214,M07,0-2 years,3552,184.27,4.82,1193.5,Supplier Delta,A,LOT-939,None,0,Good,0
+B00749,Line D,Afternoon,297,M06,3-5 years,571,183.06,4.57,1151.4,Supplier Beta,C,LOT-490,Porosity,8,Defective,1
+B00750,Line D,Afternoon,86,M08,0-2 years,10441,178.54,5.14,1224.9,Supplier Gamma,C,LOT-915,None,0,Good,0
+B00751,Line D,Night,209,M11,6+ years,6433,176.69,6.63,1127.1,Supplier Beta,A,LOT-489,Porosity,1,Defective,1
+B00752,Line B,Afternoon,142,M01,3-5 years,5499,184.21,6.35,1371.0,Supplier Delta,C,LOT-150,Surface Crack,4,Defective,1
+B00753,Line D,Night,81,M03,6+ years,11030,194.31,5.34,1362.5,Supplier Delta,A,LOT-133,Warping,3,Defective,1
+B00754,Line B,Afternoon,259,M07,0-2 years,3552,204.25,5.62,1146.1,Supplier Beta,A,LOT-539,Porosity,5,Defective,1
+B00755,Line A,Afternoon,188,M04,0-2 years,4973,188.41,4.88,1099.1,Supplier Delta,B,LOT-221,None,0,Good,0
+B00756,Line B,Morning,156,M05,6+ years,6132,181.67,6.45,1210.3,Supplier Alpha,B,LOT-649,Porosity,3,Defective,1
+B00757,Line A,Morning,232,M02,0-2 years,14270,189.23,5.47,1081.3,Supplier Delta,B,LOT-983,Dimension Error,6,Defective,1
+B00758,Line A,Night,194,M05,6+ years,6132,187.91,4.39,1286.9,Supplier Beta,A,LOT-608,None,0,Good,0
+B00759,Line A,Morning,262,M10,6+ years,2371,184.67,5.86,1372.9,Supplier Beta,C,LOT-439,None,0,Good,0
+B00760,Line C,Night,190,M10,6+ years,2371,186.89,4.57,1115.1,Supplier Alpha,A,LOT-157,Porosity,7,Defective,1
+B00761,Line B,Afternoon,101,M06,3-5 years,571,195.83,5.93,1162.9,Supplier Alpha,C,LOT-583,None,0,Good,0
+B00762,Line A,Night,295,M02,0-2 years,14270,189.51,4.46,920.8,Supplier Delta,A,LOT-719,None,0,Good,0
+B00763,Line D,Afternoon,251,M07,0-2 years,3552,173.9,4.64,951.5,Supplier Beta,B,LOT-930,None,0,Good,0
+B00764,Line B,Night,138,M04,0-2 years,4973,193.3,5.37,1058.3,Supplier Alpha,A,LOT-138,None,0,Good,0
+B00765,Line C,Afternoon,89,M04,0-2 years,4973,198.12,5.92,1068.9,Supplier Alpha,B,LOT-293,None,0,Good,0
+B00766,Line B,Afternoon,154,M12,6+ years,17420,190.47,6.0,1119.5,Supplier Alpha,B,LOT-371,Dimension Error,3,Defective,1
+B00767,Line C,Afternoon,164,M06,3-5 years,571,188.28,5.27,1194.9,Supplier Beta,A,LOT-935,None,0,Good,0
+B00768,Line B,Morning,217,M03,6+ years,11030,196.58,5.54,1283.2,Supplier Alpha,C,LOT-403,Warping,8,Defective,1
+B00769,Line B,Afternoon,133,M10,6+ years,2371,186.76,5.93,1092.6,Supplier Alpha,A,LOT-433,None,0,Good,0
+B00770,Line B,Morning,203,M12,6+ years,17420,199.55,6.48,1156.0,Supplier Gamma,A,LOT-585,Scratch,4,Defective,1
+B00771,Line C,Afternoon,161,M02,0-2 years,14270,184.09,5.39,1146.7,Supplier Gamma,A,LOT-415,None,0,Good,0
+B00772,Line D,Night,268,M07,0-2 years,3552,175.34,5.43,1334.3,Supplier Beta,C,LOT-958,Dimension Error,1,Defective,1
+B00773,Line C,Afternoon,206,M08,0-2 years,10441,187.26,5.5,1128.3,Unknown,Unknown,,None,0,Good,0
+B00774,Line A,Afternoon,221,M07,0-2 years,3552,198.53,5.11,1193.1,Supplier Alpha,A,LOT-453,Dimension Error,1,Defective,1
+B00775,Line B,Morning,164,M12,6+ years,17420,194.02,5.24,1184.6,Supplier Delta,A,LOT-222,None,0,Good,0
+B00776,Line A,Afternoon,279,M04,0-2 years,4973,194.12,5.01,1151.0,Supplier Gamma,A,LOT-151,None,0,Good,0
+B00777,Line B,Morning,203,M12,6+ years,17420,194.46,4.92,1057.8,Supplier Beta,B,LOT-801,None,0,Good,0
+B00778,Line A,Morning,262,M10,6+ years,2371,190.81,5.2,1402.9,Supplier Gamma,A,LOT-494,None,0,Good,0
+B00779,Line D,Afternoon,154,M10,6+ years,2371,180.33,5.11,1208.7,Supplier Beta,A,LOT-249,None,0,Good,0
+B00780,Line B,Afternoon,94,M05,6+ years,6132,184.0,4.53,1243.1,Supplier Delta,A,LOT-173,Warping,4,Defective,1
+B00781,Line C,Afternoon,223,M08,0-2 years,10441,185.51,4.89,1189.1,Supplier Gamma,C,LOT-955,None,0,Good,0
+B00782,Line C,Morning,279,M05,6+ years,6132,176.47,4.74,947.3,Supplier Beta,C,LOT-859,Scratch,7,Defective,1
+B00783,Line B,Afternoon,247,M05,6+ years,6132,201.0,5.09,1108.2,Supplier Beta,C,LOT-269,Surface Crack,8,Defective,1
+B00784,Line B,Afternoon,277,M02,0-2 years,14270,188.19,5.3,1193.5,Supplier Beta,A,LOT-111,Scratch,7,Defective,1
+B00785,Line A,Morning,86,M08,0-2 years,10441,188.98,5.59,1268.6,Supplier Alpha,B,LOT-278,None,0,Good,0
+B00786,Line C,Morning,202,M04,0-2 years,4973,194.65,5.54,1182.5,Supplier Beta,A,LOT-932,None,0,Good,0
+B00787,Line A,Morning,121,M01,3-5 years,5499,179.56,5.0,1181.1,Supplier Gamma,C,LOT-614,Warping,7,Defective,1
+B00788,Line D,Afternoon,239,M12,6+ years,17420,178.92,5.11,1248.4,Supplier Beta,A,LOT-343,None,0,Good,0
+B00789,Line C,Morning,191,M02,0-2 years,14270,190.42,4.52,1376.2,Supplier Beta,A,LOT-154,None,0,Good,0
+B00790,Line B,Afternoon,271,M03,6+ years,11030,175.87,4.97,1099.8,Supplier Gamma,A,LOT-431,None,0,Good,0
+B00791,Line D,Night,149,M07,0-2 years,3552,195.17,4.65,1306.3,Supplier Alpha,B,LOT-864,None,0,Good,0
+B00792,Line D,Morning,142,M08,0-2 years,10441,187.98,5.17,1119.0,Supplier Gamma,A,LOT-532,Dimension Error,1,Defective,1
+B00793,Line A,Morning,98,M08,0-2 years,10441,174.51,3.1,1102.3,Supplier Beta,B,LOT-610,None,0,Good,0
+B00794,Line A,Night,89,M11,6+ years,6433,188.02,4.45,1151.5,Supplier Gamma,B,LOT-255,Dimension Error,5,Defective,1
+B00795,Line C,Morning,124,M04,0-2 years,4973,190.06,4.13,1308.6,Supplier Delta,B,LOT-790,Warping,1,Defective,1
+B00796,Line B,Morning,200,M07,0-2 years,3552,191.98,5.28,1145.7,Supplier Alpha,A,LOT-517,None,0,Good,0
+B00797,Line C,Morning,236,M07,0-2 years,3552,191.28,5.48,1258.6,Supplier Gamma,A,LOT-607,None,0,Good,0
+B00798,Line C,Morning,263,M06,3-5 years,571,183.12,5.52,1214.2,Unknown,Unknown,,None,0,Good,0
+B00799,Line D,Afternoon,282,M08,0-2 years,10441,195.61,4.47,1261.6,Supplier Gamma,C,LOT-815,None,0,Good,0
+B00800,Line C,Afternoon,274,M04,0-2 years,4973,190.75,5.16,1063.8,Supplier Delta,B,LOT-446,None,0,Good,0
+B00801,Line B,Afternoon,155,M12,6+ years,17420,185.94,5.54,1246.3,Unknown,Unknown,,None,0,Good,0
+B00802,Line A,Night,115,M10,6+ years,2371,182.64,4.69,1204.0,Supplier Beta,B,LOT-247,None,0,Good,0
+B00803,Line D,Afternoon,174,M10,6+ years,2371,185.43,5.46,1114.9,Supplier Delta,B,LOT-819,Porosity,1,Defective,1
+B00804,Line C,Night,197,M07,0-2 years,3552,176.35,5.27,1233.1,Supplier Gamma,A,LOT-585,Porosity,1,Defective,1
+B00805,Line B,Night,126,M04,0-2 years,4973,186.19,4.53,1169.8,Supplier Alpha,C,LOT-241,None,0,Good,0
+B00806,Line B,Afternoon,200,M05,6+ years,6132,193.83,4.55,1339.0,Supplier Beta,A,LOT-113,None,0,Good,0
+B00807,Line B,Morning,187,M10,6+ years,2371,193.9,5.49,958.5,Supplier Alpha,A,LOT-636,None,0,Good,0
+B00808,Line C,Afternoon,155,M05,6+ years,6132,182.55,4.92,1118.9,Supplier Alpha,A,LOT-551,Warping,2,Defective,1
+B00809,Line C,Morning,131,M03,6+ years,11030,184.92,5.11,1050.2,Supplier Gamma,C,LOT-792,None,0,Good,0
+B00810,Line A,Night,209,M09,0-2 years,4363,176.99,4.41,1132.8,Supplier Alpha,B,LOT-329,Dimension Error,7,Defective,1
+B00811,Line D,Morning,115,M01,3-5 years,5499,186.95,5.08,1028.4,Supplier Beta,B,LOT-216,None,0,Good,0
+B00812,Line C,Night,258,M09,0-2 years,4363,197.38,4.46,1114.6,Supplier Delta,B,LOT-767,None,0,Good,0
+B00813,Line A,Afternoon,248,M09,0-2 years,4363,180.1,6.57,1381.8,Supplier Gamma,A,LOT-215,None,0,Good,0
+B00814,Line B,Night,161,M06,3-5 years,571,177.67,4.22,1084.7,Supplier Delta,A,LOT-423,None,0,Good,0
+B00815,Line D,Morning,204,M09,0-2 years,4363,182.76,4.29,1399.1,Supplier Delta,A,LOT-727,None,0,Good,0
+B00816,Line B,Morning,199,M06,3-5 years,571,181.98,5.96,1141.4,Supplier Delta,A,LOT-177,None,0,Good,0
+B00817,Line A,Morning,143,M03,6+ years,11030,178.44,6.49,1088.6,Supplier Alpha,A,LOT-296,Dimension Error,2,Defective,1
+B00818,Line C,Night,173,M06,3-5 years,571,187.89,4.34,1049.5,Supplier Gamma,C,LOT-744,None,0,Good,0
+B00819,Line A,Night,127,M02,0-2 years,14270,198.48,6.14,1086.4,Supplier Delta,A,LOT-914,Dimension Error,1,Defective,1
+B00820,Line B,Afternoon,124,M09,0-2 years,4363,209.18,6.28,1170.2,Supplier Gamma,A,LOT-110,Scratch,4,Defective,1
+B00821,Line D,Night,275,M10,6+ years,2371,191.24,5.38,1202.5,Supplier Gamma,A,LOT-522,Porosity,8,Defective,1
+B00822,Line A,Night,279,M03,6+ years,11030,194.42,5.11,1254.9,Supplier Alpha,A,LOT-458,Dimension Error,1,Defective,1
+B00823,Line B,Night,178,M03,6+ years,11030,186.73,4.94,1059.8,Supplier Delta,B,LOT-563,Surface Crack,1,Defective,1
+B00824,Line C,Night,275,M11,6+ years,6433,178.82,4.74,1252.5,Supplier Gamma,A,LOT-710,None,0,Good,0
+B00825,Line D,Morning,119,M04,0-2 years,4973,186.46,5.06,1451.5,Supplier Gamma,B,LOT-318,None,0,Good,0
+B00826,Line A,Night,268,M11,6+ years,6433,200.9,5.59,1058.1,Supplier Gamma,A,LOT-432,None,0,Good,0
+B00827,Line C,Night,285,M05,6+ years,6132,180.87,5.84,1186.0,Supplier Alpha,B,LOT-306,Warping,6,Defective,1
+B00828,Line C,Night,239,M02,0-2 years,14270,197.16,4.65,1208.8,Supplier Delta,A,LOT-579,Scratch,2,Defective,1
+B00829,Line D,Night,151,M03,6+ years,11030,188.68,5.11,1341.4,Supplier Alpha,B,LOT-775,Surface Crack,3,Defective,1
+B00830,Line B,Afternoon,132,M12,6+ years,17420,197.83,5.22,1261.8,Supplier Gamma,A,LOT-196,Porosity,5,Defective,1
+B00831,Line D,Morning,268,M02,0-2 years,14270,185.54,5.01,1358.2,Supplier Gamma,B,LOT-673,Surface Crack,0,Good,0
+B00832,Line B,Morning,188,M06,3-5 years,571,188.88,4.32,1311.4,Supplier Alpha,A,LOT-991,None,0,Good,0
+B00833,Line B,Night,217,M12,6+ years,17420,176.78,5.77,1280.8,Supplier Alpha,A,LOT-818,None,0,Good,0
+B00834,Line D,Afternoon,283,M06,3-5 years,571,187.91,5.37,1227.3,Supplier Delta,B,LOT-761,Porosity,5,Defective,1
+B00835,Line C,Morning,215,M05,6+ years,6132,185.29,4.99,1332.5,Supplier Beta,A,LOT-586,None,0,Good,0
+B00836,Line B,Morning,160,M09,0-2 years,4363,206.25,5.37,1338.8,Supplier Alpha,C,LOT-609,None,0,Good,0
+B00837,Line D,Morning,101,M07,0-2 years,3552,193.53,5.09,920.7,Supplier Alpha,B,LOT-630,None,0,Good,0
+B00838,Line B,Morning,147,M08,0-2 years,10441,182.05,5.41,1312.9,Supplier Delta,B,LOT-646,None,0,Good,0
+B00839,Line D,Morning,213,M03,6+ years,11030,185.15,4.77,1280.8,Supplier Beta,A,LOT-816,None,0,Good,0
+B00840,Line A,Night,104,M04,0-2 years,4973,182.53,5.21,1186.6,Supplier Alpha,A,LOT-290,Dimension Error,1,Defective,1
+B00841,Line D,Morning,191,M10,6+ years,2371,174.25,5.38,1207.8,Supplier Beta,C,LOT-130,None,0,Good,0
+B00842,Line B,Afternoon,132,M03,6+ years,11030,199.21,4.96,1169.2,Supplier Gamma,B,LOT-330,Surface Crack,7,Defective,1
+B00843,Line C,Afternoon,218,M12,6+ years,17420,189.23,4.31,1371.2,Supplier Beta,B,LOT-610,Surface Crack,5,Defective,1
+B00844,Line A,Morning,228,M03,6+ years,11030,185.14,4.58,1273.9,Supplier Delta,A,LOT-723,None,0,Good,0
+B00845,Line B,Morning,147,M06,3-5 years,571,189.56,4.54,1146.7,Supplier Alpha,C,LOT-500,Porosity,5,Defective,1
+B00846,Line D,Morning,104,M05,6+ years,6132,183.67,5.05,1199.0,Supplier Delta,A,LOT-327,None,0,Good,0
+B00847,Line C,Night,88,M11,6+ years,6433,189.24,4.8,1112.4,Supplier Delta,A,LOT-261,None,0,Good,0
+B00848,Line C,Night,261,M06,3-5 years,571,187.98,4.33,1170.3,Supplier Alpha,C,LOT-959,None,0,Good,0
+B00849,Line D,Night,120,M08,0-2 years,10441,186.79,5.17,993.8,Supplier Beta,A,LOT-160,None,0,Good,0
+B00850,Line A,Afternoon,270,M06,3-5 years,571,188.21,5.98,1145.5,Supplier Delta,A,LOT-123,Surface Crack,8,Defective,1
+B00851,Line D,Night,294,M01,3-5 years,5499,183.95,6.09,1187.3,Supplier Delta,B,LOT-846,Warping,8,Defective,1
+B00852,Line A,Morning,147,M09,0-2 years,4363,180.02,4.22,1133.6,Supplier Beta,A,LOT-310,None,0,Good,0
+B00853,Line D,Morning,237,M03,6+ years,11030,186.3,4.42,1291.4,Supplier Alpha,A,LOT-349,Scratch,1,Defective,1
+B00854,Line A,Morning,209,M11,6+ years,6433,181.57,4.49,1433.6,Supplier Gamma,A,LOT-116,None,0,Good,0
+B00855,Line D,Morning,102,M11,6+ years,6433,181.03,4.08,1279.5,Supplier Delta,B,LOT-191,Porosity,1,Defective,1
+B00856,Line B,Morning,168,M01,3-5 years,5499,181.25,5.49,1286.7,Supplier Delta,B,LOT-592,None,0,Good,0
+B00857,Line D,Night,254,M05,6+ years,6132,177.6,4.9,890.4,Supplier Beta,A,LOT-223,Dimension Error,7,Defective,1
+B00858,Line A,Night,193,M04,0-2 years,4973,176.35,5.96,1215.5,Supplier Delta,C,LOT-777,Warping,6,Defective,1
+B00859,Line B,Afternoon,117,M09,0-2 years,4363,184.39,5.86,1142.9,Supplier Beta,B,LOT-507,Porosity,5,Defective,1
+B00860,Line A,Morning,82,M03,6+ years,11030,184.27,5.12,1108.8,Supplier Delta,C,LOT-850,None,0,Good,0
+B00861,Line C,Afternoon,138,M11,6+ years,6433,197.56,5.95,1367.3,Supplier Alpha,A,LOT-797,None,0,Good,0
+B00862,Line D,Afternoon,124,M05,6+ years,6132,189.49,4.51,1327.1,Supplier Alpha,A,LOT-885,None,0,Good,0
+B00863,Line B,Morning,295,M03,6+ years,11030,187.34,5.47,1148.3,Supplier Delta,C,LOT-174,Dimension Error,6,Defective,1
+B00864,Line A,Morning,201,M11,6+ years,6433,191.13,5.88,1151.1,Supplier Gamma,A,LOT-317,Porosity,1,Defective,1
+B00865,Line C,Night,290,M08,0-2 years,10441,193.26,6.1,1362.5,Supplier Gamma,A,LOT-560,None,0,Good,0
+B00866,Line C,Afternoon,121,M04,0-2 years,4973,190.11,4.68,1345.7,Supplier Alpha,A,LOT-536,None,0,Good,0
+B00867,Line A,Night,239,M08,0-2 years,10441,181.25,5.21,1175.8,Supplier Beta,A,LOT-677,None,0,Good,0
+B00868,Line A,Morning,126,M07,0-2 years,3552,194.22,4.7,1116.2,Supplier Delta,B,LOT-913,None,0,Good,0
+B00869,Line B,Afternoon,218,M12,6+ years,17420,184.07,4.25,1244.6,Supplier Gamma,A,LOT-215,None,0,Good,0
+B00870,Line D,Afternoon,154,M10,6+ years,2371,185.3,4.5,1170.7,Supplier Alpha,B,LOT-874,None,0,Good,0
+B00871,Line D,Morning,256,M08,0-2 years,10441,176.57,5.11,1064.4,Supplier Beta,A,LOT-801,None,0,Good,0
+B00872,Line D,Morning,112,M01,3-5 years,5499,178.32,5.41,1274.4,Supplier Beta,C,LOT-426,None,0,Good,0
+B00873,Line D,Morning,268,M10,6+ years,2371,184.3,5.49,974.5,Supplier Alpha,B,LOT-602,None,0,Good,0
+B00874,Line A,Morning,140,M08,0-2 years,10441,189.05,5.16,1349.7,Supplier Alpha,B,LOT-953,Porosity,7,Defective,1
+B00875,Line D,Night,234,M08,0-2 years,10441,195.95,5.75,1197.2,Supplier Delta,A,LOT-961,Warping,3,Defective,1
+B00876,Line A,Afternoon,112,M04,0-2 years,4973,177.53,5.2,1048.7,Supplier Gamma,B,LOT-923,None,0,Good,0
+B00877,Line D,Night,288,M02,0-2 years,14270,181.06,4.6,1217.0,Supplier Beta,A,LOT-210,Surface Crack,1,Defective,1
+B00878,Line D,Afternoon,115,M08,0-2 years,10441,171.02,4.82,1162.4,Supplier Beta,A,LOT-809,Surface Crack,0,Good,0
+B00879,Line B,Morning,156,M01,3-5 years,5499,187.73,5.81,1360.8,Supplier Alpha,A,LOT-332,Warping,1,Defective,1
+B00880,Line C,Afternoon,183,M01,3-5 years,5499,187.17,6.5,1130.7,Supplier Gamma,B,LOT-989,Porosity,8,Defective,1
+B00881,Line A,Night,144,M01,3-5 years,5499,199.42,4.41,1088.8,Supplier Alpha,A,LOT-557,Porosity,7,Defective,1
+B00882,Line C,Afternoon,265,M05,6+ years,6132,185.74,4.2,1241.2,Supplier Gamma,C,LOT-741,Surface Crack,1,Defective,1
+B00883,Line D,Morning,277,M09,0-2 years,4363,178.96,4.9,1399.6,Supplier Alpha,A,LOT-428,None,0,Good,0
+B00884,Line C,Afternoon,203,M02,0-2 years,14270,184.7,5.39,1413.8,Supplier Beta,B,LOT-507,None,0,Good,0
+B00885,Line C,Night,127,M03,6+ years,11030,185.69,5.28,1172.5,Supplier Gamma,A,LOT-445,Surface Crack,5,Defective,1
+B00886,Line B,Night,217,M07,0-2 years,3552,187.97,4.92,1053.2,Supplier Alpha,A,LOT-206,None,0,Good,0
+B00887,Line D,Night,266,M07,0-2 years,3552,187.27,3.78,1164.5,Supplier Beta,B,LOT-805,None,0,Good,0
+B00888,Line C,Afternoon,220,M10,6+ years,2371,199.42,5.78,1156.3,Supplier Delta,A,LOT-828,Dimension Error,6,Defective,1
+B00889,Line C,Afternoon,127,M07,0-2 years,3552,193.56,4.29,1271.9,Supplier Delta,A,LOT-452,None,0,Good,0
+B00890,Line A,Afternoon,258,M01,3-5 years,5499,184.34,5.42,1331.8,Supplier Beta,A,LOT-318,Surface Crack,0,Good,0
+B00891,Line C,Night,244,M10,6+ years,2371,192.23,5.03,1362.6,Supplier Alpha,A,LOT-792,Dimension Error,1,Defective,1
+B00892,Line A,Morning,296,M07,0-2 years,3552,188.38,4.54,949.1,Supplier Gamma,B,LOT-661,Porosity,1,Defective,1
+B00893,Line A,Night,157,M09,0-2 years,4363,186.88,4.47,944.2,Supplier Beta,A,LOT-473,Warping,5,Defective,1
+B00894,Line D,Night,88,M09,0-2 years,4363,181.48,5.11,1293.1,Supplier Beta,B,LOT-682,Dimension Error,1,Defective,1
+B00895,Line D,Afternoon,181,M10,6+ years,2371,184.21,5.49,1372.3,Supplier Gamma,C,LOT-682,Surface Crack,6,Defective,1
+B00896,Line C,Afternoon,255,M02,0-2 years,14270,195.17,5.45,1107.5,Supplier Gamma,A,LOT-907,Scratch,5,Defective,1
+B00897,Line D,Afternoon,165,M06,3-5 years,571,181.0,5.38,1366.5,Supplier Delta,B,LOT-911,Porosity,3,Defective,1
+B00898,Line A,Afternoon,229,M12,6+ years,17420,180.03,4.32,1366.0,Supplier Gamma,B,LOT-162,Porosity,5,Defective,1
+B00899,Line D,Night,106,M10,6+ years,2371,190.24,5.63,1252.2,Supplier Beta,A,LOT-112,Porosity,4,Defective,1
+B00900,Line A,Morning,220,M02,0-2 years,14270,187.08,5.28,1175.5,Supplier Beta,B,LOT-553,None,0,Good,0
+B00901,Line D,Afternoon,147,M08,0-2 years,10441,189.83,4.56,1248.1,Supplier Alpha,B,LOT-691,Warping,1,Defective,1
+B00902,Line A,Night,264,M04,0-2 years,4973,187.58,4.51,1350.4,Supplier Delta,B,LOT-578,None,0,Good,0
+B00903,Line A,Afternoon,291,M02,0-2 years,14270,177.89,4.41,1253.2,Supplier Beta,C,LOT-980,Warping,5,Defective,1
+B00904,Line B,Night,145,M10,6+ years,2371,195.53,4.96,1343.6,Supplier Gamma,B,LOT-920,Warping,4,Defective,1
+B00905,Line A,Morning,86,M05,6+ years,6132,186.84,5.91,1199.1,Supplier Alpha,A,LOT-648,None,0,Good,0
+B00906,Line B,Morning,220,M08,0-2 years,10441,197.27,5.8,1298.3,Supplier Alpha,B,LOT-478,None,0,Good,0
+B00907,Line C,Afternoon,202,M11,6+ years,6433,189.87,5.12,1163.4,Supplier Beta,A,LOT-728,None,0,Good,0
+B00908,Line C,Afternoon,219,M05,6+ years,6132,183.29,5.41,1211.1,Supplier Alpha,B,LOT-246,None,0,Good,0
+B00909,Line D,Afternoon,171,M05,6+ years,6132,187.46,4.81,1406.1,Supplier Gamma,C,LOT-719,Dimension Error,5,Defective,1
+B00910,Line C,Night,264,M08,0-2 years,10441,190.5,4.37,1293.7,Supplier Alpha,B,LOT-985,None,0,Good,0
+B00911,Line D,Morning,290,M08,0-2 years,10441,171.53,4.3,1242.0,Supplier Delta,A,LOT-348,None,0,Good,0
+B00912,Line B,Afternoon,105,M04,0-2 years,4973,185.06,5.54,1435.1,Supplier Beta,B,LOT-795,Scratch,2,Defective,1
+B00913,Line A,Afternoon,170,M04,0-2 years,4973,181.28,5.61,1337.3,Supplier Gamma,A,LOT-896,None,0,Good,0
+B00914,Line C,Morning,98,M01,3-5 years,5499,188.48,4.25,1405.5,Supplier Beta,A,LOT-911,None,0,Good,0
+B00915,Line B,Afternoon,187,M06,3-5 years,571,180.15,5.66,1115.4,Supplier Alpha,B,LOT-538,None,0,Good,0
+B00916,Line C,Afternoon,93,M01,3-5 years,5499,187.91,4.58,940.3,Supplier Gamma,A,LOT-536,Surface Crack,1,Defective,1
+B00917,Line B,Morning,211,M05,6+ years,6132,197.78,4.86,1230.6,Supplier Alpha,A,LOT-517,Scratch,6,Defective,1
+B00918,Line B,Night,242,M06,3-5 years,571,178.35,4.86,1216.4,Supplier Alpha,B,LOT-530,None,0,Good,0
+B00919,Line A,Morning,235,M11,6+ years,6433,181.05,4.88,1198.6,Supplier Beta,A,LOT-247,None,0,Good,0
+B00920,Line A,Morning,160,M05,6+ years,6132,180.76,5.63,1246.4,Supplier Delta,A,LOT-249,Dimension Error,5,Defective,1
+B00921,Line D,Afternoon,252,M07,0-2 years,3552,175.16,5.34,1071.8,Supplier Delta,B,LOT-812,None,0,Good,0
+B00922,Line C,Night,145,M03,6+ years,11030,190.97,5.9,1105.6,Supplier Beta,B,LOT-414,None,0,Good,0
+B00923,Line D,Morning,258,M12,6+ years,17420,186.27,5.35,1350.1,Supplier Delta,A,LOT-567,None,0,Good,0
+B00924,Line B,Morning,117,M06,3-5 years,571,198.3,5.01,1178.4,Supplier Gamma,A,LOT-483,Porosity,1,Defective,1
+B00925,Line B,Afternoon,288,M06,3-5 years,571,198.78,4.22,977.0,Supplier Alpha,B,LOT-604,Dimension Error,3,Defective,1
+B00926,Line B,Night,154,M07,0-2 years,3552,190.34,5.56,1317.0,Supplier Alpha,B,LOT-505,Surface Crack,3,Defective,1
+B00927,Line C,Night,227,M07,0-2 years,3552,180.6,4.32,1140.3,Supplier Gamma,A,LOT-451,Dimension Error,1,Defective,1
+B00928,Line B,Night,201,M07,0-2 years,3552,186.46,4.85,1064.2,Supplier Beta,B,LOT-717,Porosity,1,Defective,1
+B00929,Line A,Morning,291,M10,6+ years,2371,185.31,4.1,1305.6,Supplier Gamma,A,LOT-953,Porosity,7,Defective,1
+B00930,Line D,Afternoon,189,M05,6+ years,6132,188.97,5.27,1332.2,Supplier Beta,C,LOT-417,Scratch,7,Defective,1
+B00931,Line D,Night,149,M03,6+ years,11030,187.25,4.08,1231.7,Supplier Delta,A,LOT-593,None,0,Good,0
+B00932,Line A,Afternoon,242,M08,0-2 years,10441,187.29,4.15,974.6,Supplier Alpha,A,LOT-849,Porosity,1,Defective,1
+B00933,Line C,Afternoon,141,M10,6+ years,2371,188.26,4.18,1345.8,Supplier Alpha,B,LOT-672,Warping,8,Defective,1
+B00934,Line B,Afternoon,246,M02,0-2 years,14270,189.67,5.41,1091.7,Supplier Delta,A,LOT-195,None,0,Good,0
+B00935,Line D,Night,183,M09,0-2 years,4363,178.16,5.12,1185.6,Supplier Alpha,C,LOT-276,None,0,Good,0
+B00936,Line A,Morning,188,M09,0-2 years,4363,189.09,5.83,1206.3,Supplier Beta,B,LOT-385,None,0,Good,0
+B00937,Line A,Morning,166,M04,0-2 years,4973,174.96,5.36,1474.6,Supplier Beta,B,LOT-440,Scratch,1,Defective,1
+B00938,Line D,Night,244,M01,3-5 years,5499,177.83,5.37,1218.2,Supplier Gamma,B,LOT-511,None,0,Good,0
+B00939,Line C,Night,97,M02,0-2 years,14270,189.6,5.06,1145.8,Supplier Gamma,A,LOT-433,None,0,Good,0
+B00940,Line A,Morning,248,M10,6+ years,2371,177.49,5.11,1132.4,Supplier Beta,B,LOT-157,Porosity,4,Defective,1
+B00941,Line C,Morning,146,M03,6+ years,11030,183.38,4.88,1084.5,Supplier Alpha,A,LOT-771,Porosity,1,Defective,1
+B00942,Line A,Night,286,M03,6+ years,11030,191.87,4.95,1076.0,Supplier Alpha,C,LOT-951,Dimension Error,1,Defective,1
+B00943,Line B,Night,267,M11,6+ years,6433,194.13,5.11,1160.2,Supplier Beta,B,LOT-866,Dimension Error,5,Defective,1
+B00944,Line D,Morning,299,M03,6+ years,11030,182.85,5.95,1096.1,Supplier Beta,C,LOT-711,None,0,Good,0
+B00945,Line B,Night,188,M08,0-2 years,10441,197.64,5.33,1291.5,Supplier Delta,A,LOT-122,None,0,Good,0
+B00946,Line A,Morning,220,M06,3-5 years,571,180.58,5.71,890.6,Supplier Beta,A,LOT-427,None,0,Good,0
+B00947,Line C,Morning,266,M09,0-2 years,4363,190.17,6.14,1155.0,Supplier Alpha,C,LOT-345,Surface Crack,0,Good,0
+B00948,Line B,Afternoon,197,M04,0-2 years,4973,184.09,4.4,1045.8,Supplier Beta,C,LOT-480,Warping,6,Defective,1
+B00949,Line C,Night,118,M08,0-2 years,10441,184.91,4.47,1082.9,Supplier Alpha,A,LOT-825,None,0,Good,0
+B00950,Line B,Afternoon,251,M05,6+ years,6132,190.62,4.98,1371.2,Supplier Gamma,A,LOT-166,Porosity,4,Defective,1
+B00951,Line A,Morning,210,M01,3-5 years,5499,176.64,5.2,986.6,Supplier Beta,A,LOT-101,None,0,Good,0
+B00952,Line D,Morning,209,M08,0-2 years,10441,183.65,4.74,1086.3,Supplier Alpha,A,LOT-961,None,0,Good,0
+B00953,Line A,Afternoon,91,M09,0-2 years,4363,185.1,5.22,1347.5,Supplier Gamma,B,LOT-371,Surface Crack,1,Defective,1
+B00954,Line A,Night,152,M04,0-2 years,4973,185.72,5.56,1130.4,Supplier Alpha,B,LOT-683,None,0,Good,0
+B00955,Line D,Night,284,M04,0-2 years,4973,186.01,5.06,1252.4,Supplier Delta,B,LOT-400,None,0,Good,0
+B00956,Line D,Night,146,M06,3-5 years,571,187.91,5.04,1106.3,Supplier Alpha,A,LOT-713,None,0,Good,0
+B00957,Line A,Morning,190,M10,6+ years,2371,184.33,4.96,1091.5,Supplier Alpha,B,LOT-213,None,0,Good,0
+B00958,Line B,Afternoon,127,M12,6+ years,17420,181.08,5.48,1345.7,Supplier Beta,B,LOT-182,Porosity,4,Defective,1
+B00959,Line A,Afternoon,95,M12,6+ years,17420,175.48,4.25,1098.8,Supplier Alpha,A,LOT-709,None,0,Good,0
+B00960,Line D,Morning,283,M10,6+ years,2371,183.74,4.88,1048.9,Supplier Delta,A,LOT-738,Surface Crack,7,Defective,1
+B00961,Line D,Night,287,M08,0-2 years,10441,184.06,4.63,1116.3,Supplier Delta,A,LOT-732,Dimension Error,1,Defective,1
+B00962,Line B,Afternoon,265,M11,6+ years,6433,197.99,4.82,1447.6,Supplier Delta,A,LOT-651,None,0,Good,0
+B00963,Line B,Afternoon,269,M11,6+ years,6433,179.57,4.99,1065.5,Supplier Gamma,A,LOT-124,Scratch,8,Defective,1
+B00964,Line B,Night,184,M03,6+ years,11030,191.32,5.5,1155.2,Supplier Delta,A,LOT-328,None,0,Good,0
+B00965,Line B,Night,161,M02,0-2 years,14270,199.64,4.81,1163.9,Supplier Delta,C,LOT-468,Surface Crack,5,Defective,1
+B00966,Line B,Night,291,M08,0-2 years,10441,192.71,4.91,1280.6,Supplier Beta,B,LOT-440,Scratch,1,Defective,1
+B00967,Line B,Afternoon,160,M04,0-2 years,4973,200.53,5.56,1249.6,Supplier Delta,A,LOT-101,None,0,Good,0
+B00968,Line D,Morning,87,M04,0-2 years,4973,179.3,5.22,1052.0,Supplier Beta,A,LOT-313,None,0,Good,0
+B00969,Line C,Afternoon,220,M04,0-2 years,4973,181.51,5.2,1196.2,Supplier Alpha,A,LOT-792,Dimension Error,1,Defective,1
+B00970,Line C,Afternoon,265,M09,0-2 years,4363,183.11,5.42,1184.8,Supplier Gamma,B,LOT-454,None,0,Good,0
+B00971,Line B,Afternoon,278,M04,0-2 years,4973,186.05,5.91,1097.6,Supplier Gamma,A,LOT-712,Dimension Error,6,Defective,1
+B00972,Line D,Night,113,M05,6+ years,6132,187.9,4.64,1020.8,Supplier Alpha,A,LOT-176,None,0,Good,0
+B00973,Line C,Afternoon,139,M12,6+ years,17420,187.08,4.57,1295.3,Supplier Alpha,A,LOT-364,None,0,Good,0
+B00974,Line D,Afternoon,232,M04,0-2 years,4973,182.34,4.71,1262.7,Supplier Gamma,B,LOT-819,Surface Crack,4,Defective,1
+B00975,Line A,Morning,274,M10,6+ years,2371,181.05,4.81,1069.4,Supplier Alpha,A,LOT-993,None,0,Good,0
+B00976,Line C,Morning,260,M09,0-2 years,4363,179.11,3.85,1181.7,Supplier Delta,A,LOT-857,None,0,Good,0
+B00977,Line B,Morning,138,M11,6+ years,6433,198.03,6.17,1097.9,Supplier Gamma,B,LOT-307,Porosity,2,Defective,1
+B00978,Line B,Morning,145,M01,3-5 years,5499,193.25,5.21,1005.5,Supplier Gamma,A,LOT-426,None,0,Good,0
+B00979,Line C,Night,149,M07,0-2 years,3552,192.64,5.72,1226.7,Supplier Delta,A,LOT-301,None,0,Good,0
+B00980,Line C,Night,165,M03,6+ years,11030,191.2,4.68,1119.5,Supplier Delta,A,LOT-649,None,0,Good,0
+B00981,Line C,Night,286,M09,0-2 years,4363,195.13,4.52,1176.0,Supplier Beta,B,LOT-125,None,0,Good,0
+B00982,Line B,Night,117,M11,6+ years,6433,187.91,5.59,1252.2,Supplier Delta,B,LOT-181,Surface Crack,5,Defective,1
+B00983,Line D,Night,143,M02,0-2 years,14270,187.91,5.33,956.6,Supplier Gamma,B,LOT-520,Surface Crack,3,Defective,1
+B00984,Line A,Night,113,M02,0-2 years,14270,189.74,4.6,1125.2,Supplier Delta,A,LOT-756,Porosity,2,Defective,1
+B00985,Line A,Night,248,M08,0-2 years,10441,187.7,5.47,1282.8,Supplier Gamma,A,LOT-798,Surface Crack,6,Defective,1
+B00986,Line B,Night,140,M05,6+ years,6132,198.91,6.11,1105.2,Supplier Gamma,B,LOT-532,Warping,3,Defective,1
+B00987,Line B,Morning,188,M04,0-2 years,4973,181.79,5.42,1216.3,Supplier Alpha,A,LOT-436,None,0,Good,0
+B00988,Line A,Night,197,M05,6+ years,6132,176.33,5.66,1004.9,Supplier Alpha,A,LOT-405,Porosity,2,Defective,1
+B00989,Line C,Afternoon,155,M04,0-2 years,4973,183.65,3.69,1197.0,Supplier Gamma,B,LOT-908,Porosity,2,Defective,1
+B00990,Line A,Morning,251,M10,6+ years,2371,177.92,5.59,1071.2,Supplier Alpha,B,LOT-616,Dimension Error,1,Defective,1
+B00991,Line C,Afternoon,156,M03,6+ years,11030,182.55,5.37,1243.4,Supplier Beta,B,LOT-485,None,0,Good,0
+B00992,Line C,Morning,200,M12,6+ years,17420,185.73,4.83,1210.3,Supplier Delta,A,LOT-191,None,0,Good,0
+B00993,Line A,Afternoon,249,M09,0-2 years,4363,182.16,4.63,1079.6,Supplier Delta,A,LOT-663,None,0,Good,0
+B00994,Line A,Afternoon,167,M03,6+ years,11030,182.02,5.53,1175.1,Supplier Alpha,A,LOT-560,None,0,Good,0
+B00995,Line D,Morning,226,M10,6+ years,2371,174.78,4.27,1403.0,Supplier Alpha,A,LOT-825,Porosity,1,Defective,1
+B00996,Line D,Night,87,M04,0-2 years,4973,199.14,5.0,1274.8,Supplier Gamma,A,LOT-769,Surface Crack,7,Defective,1
+B00997,Line A,Morning,254,M06,3-5 years,571,179.1,5.28,1252.2,Supplier Beta,B,LOT-860,None,0,Good,0
+B00998,Line D,Night,84,M01,3-5 years,5499,189.59,5.35,1282.9,Supplier Gamma,A,LOT-742,Scratch,4,Defective,1
+B00999,Line B,Morning,201,M04,0-2 years,4973,208.68,4.87,1226.9,Supplier Delta,B,LOT-381,Warping,3,Defective,1
+B01000,Line C,Morning,94,M12,6+ years,17420,195.54,5.55,1157.5,Supplier Beta,B,LOT-726,Scratch,4,Defective,1
+B01001,Line B,Night,165,M12,6+ years,17420,188.86,5.75,952.3,Supplier Beta,A,LOT-500,Surface Crack,8,Defective,1
+B01002,Line C,Morning,113,M12,6+ years,17420,176.08,5.83,1168.1,Supplier Alpha,A,LOT-460,None,0,Good,0
+B01003,Line D,Night,221,M08,0-2 years,10441,183.71,4.73,1002.5,Supplier Gamma,A,LOT-315,None,0,Good,0
+B01004,Line B,Afternoon,224,M11,6+ years,6433,180.84,4.28,1117.2,Supplier Gamma,B,LOT-180,Porosity,7,Defective,1
+B01005,Line B,Morning,96,M01,3-5 years,5499,195.88,4.37,1025.6,Supplier Alpha,C,LOT-127,None,0,Good,0
+B01006,Line C,Afternoon,247,M11,6+ years,6433,187.82,4.44,1250.3,Supplier Beta,B,LOT-178,None,0,Good,0
+B01007,Line B,Afternoon,117,M09,0-2 years,4363,199.26,5.44,1248.4,Supplier Alpha,B,LOT-209,None,0,Good,0
+B01008,Line D,Afternoon,102,M01,3-5 years,5499,194.4,4.65,1324.1,Supplier Beta,A,LOT-544,Surface Crack,0,Good,0
+B01009,Line C,Morning,209,M07,0-2 years,3552,195.17,5.47,1267.8,Supplier Delta,A,LOT-845,None,0,Good,0
+B01010,Line D,Night,257,M05,6+ years,6132,185.63,3.63,1362.1,Supplier Gamma,A,LOT-191,Dimension Error,3,Defective,1
+B01011,Line B,Night,228,M01,3-5 years,5499,187.91,4.43,1078.9,Supplier Alpha,C,LOT-385,Warping,2,Defective,1
+B01012,Line C,Morning,126,M12,6+ years,17420,179.8,5.72,1349.4,Supplier Alpha,A,LOT-480,Surface Crack,3,Defective,1
+B01013,Line C,Afternoon,89,M12,6+ years,17420,194.59,5.21,1143.8,Supplier Gamma,C,LOT-744,None,0,Good,0
+B01014,Line B,Afternoon,296,M01,3-5 years,5499,189.86,5.26,1211.6,Supplier Gamma,B,LOT-873,Porosity,1,Defective,1
+B01015,Line B,Morning,233,M08,0-2 years,10441,208.69,5.78,1245.5,Supplier Alpha,A,LOT-823,Surface Crack,7,Defective,1
+B01016,Line C,Night,280,M02,0-2 years,14270,190.34,5.62,1147.6,Supplier Delta,A,LOT-206,None,0,Good,0
+B01017,Line A,Afternoon,217,M08,0-2 years,10441,199.34,5.39,1385.9,Supplier Beta,A,LOT-416,None,0,Good,0
+B01018,Line B,Afternoon,232,M03,6+ years,11030,184.71,5.98,1155.2,Supplier Beta,A,LOT-522,Surface Crack,4,Defective,1
+B01019,Line B,Morning,212,M09,0-2 years,4363,187.94,4.79,1193.4,Supplier Beta,A,LOT-392,None,0,Good,0
+B01020,Line C,Afternoon,264,M06,3-5 years,571,193.55,5.34,959.3,Supplier Gamma,A,LOT-317,None,0,Good,0
+B01021,Line C,Afternoon,272,M04,0-2 years,4973,174.06,5.63,1361.2,Supplier Delta,A,LOT-166,Dimension Error,8,Defective,1
+B01022,Line D,Morning,177,M07,0-2 years,3552,188.91,5.26,1082.2,Supplier Gamma,B,LOT-972,None,0,Good,0
+B01023,Line C,Afternoon,128,M07,0-2 years,3552,191.88,5.11,1119.8,Supplier Beta,A,LOT-355,None,0,Good,0
+B01024,Line D,Afternoon,272,M03,6+ years,11030,190.37,4.76,1192.1,Supplier Alpha,B,LOT-685,None,0,Good,0
+B01025,Line C,Morning,93,M06,3-5 years,571,195.95,3.71,1140.1,Supplier Beta,B,LOT-531,None,0,Good,0
+B01026,Line B,Morning,246,M02,0-2 years,14270,182.1,5.18,1133.6,Supplier Beta,A,LOT-502,Dimension Error,8,Defective,1
+B01027,Line B,Morning,183,M10,6+ years,2371,193.43,6.34,1155.5,Supplier Gamma,A,LOT-758,Warping,5,Defective,1
+B01028,Line D,Afternoon,87,M12,6+ years,17420,189.54,5.76,1113.6,Supplier Beta,A,LOT-511,None,0,Good,0
+B01029,Line B,Afternoon,259,M02,0-2 years,14270,182.03,6.18,1389.1,Supplier Beta,B,LOT-321,Dimension Error,5,Defective,1
+B01030,Line D,Afternoon,142,M12,6+ years,17420,180.34,5.43,1328.5,Supplier Delta,B,LOT-248,None,0,Good,0
+B01031,Line B,Night,254,M11,6+ years,6433,196.85,4.69,1258.6,Supplier Beta,B,LOT-812,Surface Crack,2,Defective,1
+B01032,Line A,Morning,172,M11,6+ years,6433,181.58,5.7,965.9,Supplier Alpha,A,LOT-130,Dimension Error,6,Defective,1
+B01033,Line D,Morning,123,M11,6+ years,6433,196.71,3.69,1184.5,Supplier Delta,C,LOT-211,Surface Crack,5,Defective,1
+B01034,Line B,Night,223,M06,3-5 years,571,187.58,5.3,1200.7,Supplier Beta,A,LOT-538,None,0,Good,0
+B01035,Line C,Afternoon,176,M04,0-2 years,4973,185.52,4.73,1330.7,Supplier Alpha,A,LOT-966,None,0,Good,0
+B01036,Line C,Morning,219,M05,6+ years,6132,188.31,4.35,1184.9,Supplier Alpha,A,LOT-240,Surface Crack,7,Defective,1
+B01037,Line D,Morning,269,M06,3-5 years,571,179.22,4.47,1344.3,Supplier Gamma,B,LOT-533,Surface Crack,4,Defective,1
+B01038,Line C,Night,91,M08,0-2 years,10441,187.14,4.74,1186.3,Supplier Beta,B,LOT-607,None,0,Good,0
+B01039,Line A,Morning,217,M12,6+ years,17420,181.33,4.47,1117.6,Supplier Alpha,B,LOT-776,None,0,Good,0
+B01040,Line C,Afternoon,188,M07,0-2 years,3552,201.53,4.97,1352.0,Supplier Gamma,A,LOT-893,None,0,Good,0
+B01041,Line A,Afternoon,254,M03,6+ years,11030,187.91,4.64,1196.9,Supplier Gamma,A,LOT-220,Dimension Error,2,Defective,1
+B01042,Line C,Morning,187,M01,3-5 years,5499,186.45,4.59,1154.0,Supplier Beta,A,LOT-136,Surface Crack,3,Defective,1
+B01043,Line C,Morning,121,M05,6+ years,6132,197.78,4.68,1098.4,Supplier Alpha,A,LOT-318,None,0,Good,0
+B01044,Line D,Night,166,M06,3-5 years,571,180.74,3.41,1136.3,Supplier Alpha,B,LOT-573,Warping,1,Defective,1
+B01045,Line D,Afternoon,160,M06,3-5 years,571,182.6,6.11,1094.6,Supplier Alpha,B,LOT-451,None,0,Good,0
+B01046,Line C,Afternoon,195,M08,0-2 years,10441,184.33,4.85,1257.0,Supplier Gamma,C,LOT-970,None,0,Good,0
+B01047,Line A,Afternoon,86,M08,0-2 years,10441,175.21,5.27,1190.2,Supplier Beta,A,LOT-989,None,0,Good,0
+B01048,Line C,Afternoon,233,M01,3-5 years,5499,174.02,5.02,1484.9,Unknown,Unknown,,None,0,Good,0
+B01049,Line A,Afternoon,171,M02,0-2 years,14270,197.21,5.11,1237.7,Supplier Beta,A,LOT-874,Dimension Error,3,Defective,1
+B01050,Line C,Afternoon,180,M11,6+ years,6433,175.53,5.19,1132.5,Supplier Alpha,A,LOT-180,None,0,Good,0
+B01051,Line C,Afternoon,224,M11,6+ years,6433,195.2,4.07,1253.1,Supplier Alpha,A,LOT-299,None,0,Good,0
+B01052,Line B,Night,170,M02,0-2 years,14270,191.94,5.31,1251.3,Supplier Delta,B,LOT-870,Dimension Error,3,Defective,1
+B01053,Line A,Morning,204,M05,6+ years,6132,185.77,5.18,1236.7,Supplier Alpha,C,LOT-110,None,0,Good,0
+B01054,Line B,Night,235,M10,6+ years,2371,199.38,5.32,737.8,Supplier Gamma,C,LOT-518,Surface Crack,5,Defective,1
+B01055,Line C,Afternoon,188,M10,6+ years,2371,195.2,4.88,1216.5,Supplier Beta,C,LOT-643,None,0,Good,0
+B01056,Line B,Afternoon,280,M05,6+ years,6132,190.73,5.37,1284.1,Supplier Beta,C,LOT-880,None,0,Good,0
+B01057,Line B,Morning,277,M01,3-5 years,5499,197.02,4.33,1140.8,Supplier Gamma,C,LOT-894,None,0,Good,0
+B01058,Line C,Night,220,M06,3-5 years,571,190.79,4.43,947.7,Supplier Beta,A,LOT-439,Scratch,3,Defective,1
+B01059,Line D,Afternoon,222,M04,0-2 years,4973,183.09,4.64,1042.4,Supplier Gamma,A,LOT-933,Scratch,1,Defective,1
+B01060,Line A,Night,196,M07,0-2 years,3552,187.91,5.63,1151.0,Supplier Alpha,C,LOT-349,None,0,Good,0
+B01061,Line D,Night,216,M02,0-2 years,14270,199.79,5.4,1232.7,Supplier Alpha,B,LOT-563,None,0,Good,0
+B01062,Line C,Morning,89,M01,3-5 years,5499,185.24,5.53,1002.2,Supplier Alpha,B,LOT-470,None,0,Good,0
+B01063,Line A,Morning,300,M03,6+ years,11030,196.72,5.04,1268.0,Supplier Delta,A,LOT-371,Porosity,1,Defective,1
+B01064,Line D,Morning,269,M09,0-2 years,4363,201.45,3.96,1124.7,Supplier Beta,C,LOT-121,Porosity,1,Defective,1
+B01065,Line D,Afternoon,134,M05,6+ years,6132,201.84,4.73,1286.2,Supplier Alpha,A,LOT-275,Dimension Error,4,Defective,1
+B01066,Line B,Morning,113,M01,3-5 years,5499,186.51,5.84,1097.8,Supplier Gamma,B,LOT-274,Dimension Error,1,Defective,1
+B01067,Line B,Morning,208,M04,0-2 years,4973,189.33,6.27,1180.1,Supplier Delta,B,LOT-131,Surface Crack,7,Defective,1
+B01068,Line B,Afternoon,103,M05,6+ years,6132,185.3,4.52,1374.2,Supplier Beta,B,LOT-263,None,0,Good,0
+B01069,Line B,Afternoon,250,M02,0-2 years,14270,188.57,4.87,1168.3,Supplier Alpha,C,LOT-311,None,0,Good,0
+B01070,Line C,Morning,163,M01,3-5 years,5499,192.18,5.16,1114.6,Supplier Beta,C,LOT-533,None,0,Good,0
+B01071,Line B,Night,260,M09,0-2 years,4363,195.55,5.46,1115.2,Supplier Gamma,A,LOT-623,Porosity,5,Defective,1
+B01072,Line C,Night,297,M10,6+ years,2371,181.76,5.74,1207.0,Supplier Alpha,A,LOT-624,Surface Crack,5,Defective,1
+B01073,Line D,Night,140,M10,6+ years,2371,180.35,4.88,1059.3,Supplier Alpha,C,LOT-268,Surface Crack,6,Defective,1
+B01074,Line C,Night,173,M04,0-2 years,4973,175.4,4.59,1371.5,Supplier Beta,A,LOT-750,Dimension Error,7,Defective,1
+B01075,Line C,Morning,256,M01,3-5 years,5499,193.17,5.2,1297.6,Supplier Alpha,A,LOT-151,Surface Crack,3,Defective,1
+B01076,Line A,Afternoon,102,M01,3-5 years,5499,181.4,4.26,1413.7,Supplier Delta,B,LOT-569,None,0,Good,0
+B01077,Line C,Morning,215,M10,6+ years,2371,187.04,5.54,1342.9,Supplier Gamma,A,LOT-371,None,0,Good,0
+B01078,Line D,Morning,83,M05,6+ years,6132,168.63,4.62,1133.5,Supplier Gamma,B,LOT-915,Porosity,7,Defective,1
+B01079,Line D,Afternoon,254,M06,3-5 years,571,180.3,4.56,1376.3,Supplier Alpha,B,LOT-874,None,0,Good,0
+B01080,Line A,Afternoon,202,M03,6+ years,11030,186.9,4.45,1227.6,Supplier Beta,B,LOT-616,None,0,Good,0
+B01081,Line B,Afternoon,186,M06,3-5 years,571,189.85,4.75,1411.0,Supplier Gamma,A,LOT-932,None,0,Good,0
+B01082,Line D,Morning,134,M06,3-5 years,571,190.79,5.2,1240.1,Supplier Beta,B,LOT-843,None,0,Good,0
+B01083,Line A,Afternoon,249,M07,0-2 years,3552,191.79,4.91,934.5,Supplier Delta,B,LOT-103,None,0,Good,0
+B01084,Line A,Night,289,M10,6+ years,2371,187.96,5.72,1123.7,Supplier Beta,A,LOT-332,Surface Crack,4,Defective,1
+B01085,Line D,Morning,159,M09,0-2 years,4363,181.26,5.04,1189.8,Supplier Beta,C,LOT-858,None,0,Good,0
+B01086,Line B,Afternoon,300,M08,0-2 years,10441,188.07,4.71,1055.6,Supplier Alpha,A,LOT-837,None,0,Good,0
+B01087,Line C,Morning,141,M06,3-5 years,571,174.05,5.4,1379.8,Supplier Alpha,A,LOT-513,None,0,Good,0
+B01088,Line C,Afternoon,134,M12,6+ years,17420,183.46,4.33,1115.2,Supplier Gamma,B,LOT-116,Porosity,2,Defective,1
+B01089,Line B,Night,110,M03,6+ years,11030,190.24,5.25,1050.9,Supplier Delta,B,LOT-677,Scratch,4,Defective,1
+B01090,Line B,Afternoon,275,M04,0-2 years,4973,186.32,5.47,1222.1,Supplier Alpha,A,LOT-903,None,0,Good,0
+B01091,Line C,Afternoon,176,M04,0-2 years,4973,183.24,5.33,1055.5,Supplier Delta,A,LOT-257,None,0,Good,0
+B01092,Line D,Night,277,M12,6+ years,17420,190.28,4.96,1244.5,Supplier Beta,C,LOT-563,Porosity,2,Defective,1
+B01093,Line B,Afternoon,123,M09,0-2 years,4363,188.34,4.95,1268.1,Supplier Alpha,A,LOT-518,None,0,Good,0
+B01094,Line C,Afternoon,297,M08,0-2 years,10441,187.93,5.65,1369.9,Supplier Alpha,A,LOT-671,Surface Crack,8,Defective,1
+B01095,Line A,Morning,254,M11,6+ years,6433,177.26,4.72,1071.3,Supplier Beta,A,LOT-580,Dimension Error,1,Defective,1
+B01096,Line D,Afternoon,139,M03,6+ years,11030,198.09,4.5,1188.3,Supplier Beta,B,LOT-646,None,0,Good,0
+B01097,Line C,Afternoon,239,M12,6+ years,17420,189.64,4.8,1207.1,Supplier Beta,B,LOT-916,Porosity,1,Defective,1
+B01098,Line B,Morning,194,M03,6+ years,11030,193.62,5.48,1015.1,Supplier Gamma,C,LOT-740,Dimension Error,8,Defective,1
+B01099,Line C,Morning,105,M08,0-2 years,10441,191.04,5.29,1223.2,Supplier Gamma,B,LOT-548,None,0,Good,0
+B01100,Line C,Afternoon,199,M08,0-2 years,10441,187.31,4.75,1154.3,Supplier Delta,B,LOT-713,None,0,Good,0
+B01101,Line C,Morning,177,M12,6+ years,17420,194.42,4.73,1291.1,Supplier Beta,B,LOT-212,Dimension Error,6,Defective,1
+B01102,Line A,Morning,94,M07,0-2 years,3552,175.28,3.81,1115.2,Supplier Delta,B,LOT-566,None,0,Good,0
+B01103,Line B,Morning,193,M09,0-2 years,4363,190.68,5.35,1157.8,Supplier Beta,B,LOT-953,None,0,Good,0
+B01104,Line C,Night,300,M04,0-2 years,4973,187.91,4.75,1123.2,Supplier Alpha,A,LOT-167,None,0,Good,0
+B01105,Line C,Afternoon,272,M06,3-5 years,571,186.38,4.69,1197.2,Supplier Gamma,B,LOT-431,None,0,Good,0
+B01106,Line A,Night,117,M08,0-2 years,10441,187.26,5.19,1233.7,Supplier Alpha,A,LOT-698,Dimension Error,8,Defective,1
+B01107,Line C,Night,300,M03,6+ years,11030,179.91,5.16,1021.9,Supplier Beta,A,LOT-261,Warping,6,Defective,1
+B01108,Line D,Morning,99,M05,6+ years,6132,181.89,5.26,1351.7,Supplier Beta,A,LOT-512,None,0,Good,0
+B01109,Line B,Morning,212,M05,6+ years,6132,187.26,5.49,1004.2,Supplier Gamma,B,LOT-444,Scratch,6,Defective,1
+B01110,Line A,Morning,100,M08,0-2 years,10441,186.02,5.37,1104.9,Supplier Delta,A,LOT-269,Warping,1,Defective,1
+B01111,Line A,Morning,171,M07,0-2 years,3552,190.64,4.87,1086.3,Supplier Delta,C,LOT-583,Scratch,1,Defective,1
+B01112,Line B,Night,139,M05,6+ years,6132,191.09,4.43,1247.9,Supplier Beta,A,LOT-855,Dimension Error,8,Defective,1
+B01113,Line A,Morning,87,M02,0-2 years,14270,177.11,5.61,1312.5,Supplier Beta,A,LOT-860,None,0,Good,0
+B01114,Line C,Afternoon,187,M11,6+ years,6433,186.83,4.7,1164.4,Supplier Beta,A,LOT-181,None,0,Good,0
+B01115,Line A,Afternoon,196,M06,3-5 years,571,183.68,5.2,1102.2,Supplier Beta,B,LOT-330,Warping,1,Defective,1
+B01116,Line B,Morning,237,M01,3-5 years,5499,189.72,6.37,1599.8,Supplier Beta,B,LOT-449,Surface Crack,5,Defective,1
+B01117,Line A,Morning,233,M02,0-2 years,14270,175.83,4.72,1053.5,Supplier Gamma,A,LOT-826,Dimension Error,7,Defective,1
+B01118,Line D,Morning,225,M12,6+ years,17420,185.77,4.23,1172.3,Supplier Gamma,A,LOT-180,Warping,6,Defective,1
+B01119,Line B,Afternoon,116,M10,6+ years,2371,209.79,4.78,1255.6,Supplier Beta,C,LOT-472,Warping,2,Defective,1
+B01120,Line C,Afternoon,286,M02,0-2 years,14270,195.08,5.05,1411.5,Supplier Delta,A,LOT-908,None,0,Good,0
+B01121,Line A,Morning,116,M09,0-2 years,4363,193.22,3.58,1257.9,Supplier Delta,A,LOT-647,None,0,Good,0
+B01122,Line B,Night,272,M07,0-2 years,3552,190.57,6.23,1312.1,Supplier Beta,A,LOT-677,None,0,Good,0
+B01123,Line D,Night,124,M10,6+ years,2371,187.91,5.41,1022.0,Supplier Alpha,B,LOT-987,Warping,4,Defective,1
+B01124,Line B,Morning,142,M05,6+ years,6132,188.99,5.86,1284.2,Supplier Beta,A,LOT-569,Surface Crack,2,Defective,1
+B01125,Line D,Afternoon,254,M11,6+ years,6433,187.88,4.5,1212.8,Supplier Alpha,A,LOT-748,Surface Crack,1,Defective,1
+B01126,Line B,Night,89,M02,0-2 years,14270,189.61,5.1,1239.8,Supplier Delta,A,LOT-554,None,0,Good,0
+B01127,Line A,Afternoon,241,M07,0-2 years,3552,184.79,4.62,1369.6,Supplier Delta,A,LOT-864,None,0,Good,0
+B01128,Line C,Afternoon,290,M02,0-2 years,14270,181.11,4.01,1233.1,Supplier Alpha,A,LOT-466,Scratch,3,Defective,1
+B01129,Line C,Morning,209,M01,3-5 years,5499,189.1,5.14,1359.2,Supplier Beta,B,LOT-431,None,0,Good,0
+B01130,Line B,Afternoon,114,M09,0-2 years,4363,180.82,5.24,1275.7,Supplier Beta,C,LOT-725,Warping,7,Defective,1
+B01131,Line B,Night,122,M10,6+ years,2371,187.33,4.77,1314.1,Supplier Delta,C,LOT-729,None,0,Good,0
+B01132,Line B,Morning,195,M12,6+ years,17420,199.29,5.52,1115.6,Supplier Alpha,A,LOT-592,Surface Crack,6,Defective,1
+B01133,Line D,Morning,89,M11,6+ years,6433,192.62,4.52,1111.4,Supplier Beta,A,LOT-516,Porosity,6,Defective,1
+B01134,Line A,Afternoon,218,M06,3-5 years,571,184.08,4.96,1143.8,Supplier Gamma,B,LOT-340,None,0,Good,0
+B01135,Line B,Morning,93,M09,0-2 years,4363,183.66,5.45,1116.5,Supplier Gamma,A,LOT-940,Dimension Error,5,Defective,1
+B01136,Line B,Night,266,M12,6+ years,17420,193.32,4.17,1145.7,Supplier Beta,A,LOT-638,Warping,3,Defective,1
+B01137,Line B,Morning,188,M10,6+ years,2371,191.2,5.82,982.5,Supplier Alpha,C,LOT-770,None,0,Good,0
+B01138,Line C,Morning,255,M09,0-2 years,4363,197.82,5.49,1212.0,Supplier Alpha,A,LOT-421,None,0,Good,0
+B01139,Line C,Afternoon,85,M11,6+ years,6433,184.2,4.71,920.5,Supplier Beta,C,LOT-306,Surface Crack,1,Defective,1
+B01140,Line C,Night,258,M07,0-2 years,3552,194.95,4.73,1336.9,Supplier Gamma,B,LOT-674,Warping,7,Defective,1
+B01141,Line C,Night,145,M02,0-2 years,14270,191.84,4.56,1279.6,Supplier Delta,B,LOT-956,None,0,Good,0
+B01142,Line C,Morning,126,M02,0-2 years,14270,197.52,5.03,1324.8,Supplier Beta,B,LOT-900,Surface Crack,4,Defective,1
+B01143,Line B,Night,96,M10,6+ years,2371,191.43,5.44,1236.9,Supplier Delta,A,LOT-347,None,0,Good,0
+B01144,Line B,Night,107,M05,6+ years,6132,190.32,5.87,1384.3,Supplier Beta,A,LOT-115,None,0,Good,0
+B01145,Line B,Afternoon,198,M03,6+ years,11030,193.81,5.02,1264.6,Supplier Alpha,C,LOT-456,None,0,Good,0
+B01146,Line B,Night,162,M01,3-5 years,5499,200.69,5.76,1189.0,Supplier Beta,A,LOT-755,Porosity,6,Defective,1
+B01147,Line B,Afternoon,267,M10,6+ years,2371,198.97,5.3,1263.7,Supplier Delta,B,LOT-867,None,0,Good,0
+B01148,Line B,Morning,270,M05,6+ years,6132,191.0,6.19,1143.7,Supplier Alpha,A,LOT-329,Surface Crack,0,Good,0
+B01149,Line D,Afternoon,170,M03,6+ years,11030,181.89,5.73,1046.0,Supplier Delta,A,LOT-724,None,0,Good,0
+B01150,Line B,Afternoon,112,M09,0-2 years,4363,188.96,4.92,1235.1,Supplier Beta,A,LOT-522,None,0,Good,0
+B01151,Line D,Morning,85,M05,6+ years,6132,174.17,4.99,1337.4,Supplier Delta,C,LOT-978,Porosity,1,Defective,1
+B01152,Line A,Night,81,M11,6+ years,6433,201.85,4.51,1191.5,Supplier Gamma,C,LOT-873,Porosity,2,Defective,1
+B01153,Line B,Afternoon,160,M11,6+ years,6433,193.34,4.16,1203.0,Supplier Beta,A,LOT-365,None,0,Good,0
+B01154,Line D,Afternoon,266,M01,3-5 years,5499,188.02,4.71,1082.4,Supplier Delta,A,LOT-829,None,0,Good,0
+B01155,Line D,Afternoon,189,M04,0-2 years,4973,189.74,6.7,1079.2,Supplier Beta,C,LOT-315,Scratch,2,Defective,1
+B01156,Line D,Night,231,M02,0-2 years,14270,188.15,5.01,1374.5,Supplier Gamma,A,LOT-574,None,0,Good,0
+B01157,Line A,Afternoon,152,M07,0-2 years,3552,181.37,6.09,1344.5,Supplier Gamma,A,LOT-522,Porosity,1,Defective,1
+B01158,Line C,Afternoon,100,M09,0-2 years,4363,174.47,4.31,1265.4,Supplier Beta,A,LOT-768,Surface Crack,0,Good,0
+B01159,Line B,Morning,123,M05,6+ years,6132,174.94,5.31,1190.0,Unknown,Unknown,,Dimension Error,5,Defective,1
+B01160,Line C,Afternoon,119,M02,0-2 years,14270,175.25,4.49,1007.9,Supplier Alpha,A,LOT-148,None,0,Good,0
+B01161,Line B,Night,103,M11,6+ years,6433,198.67,5.06,1260.0,Supplier Beta,C,LOT-853,Dimension Error,2,Defective,1
+B01162,Line D,Afternoon,293,M07,0-2 years,3552,183.38,4.26,1193.9,Supplier Alpha,B,LOT-680,Surface Crack,8,Defective,1
+B01163,Line C,Night,138,M09,0-2 years,4363,193.67,4.41,1086.2,Supplier Beta,B,LOT-677,None,0,Good,0
+B01164,Line D,Night,220,M07,0-2 years,3552,191.92,4.96,1243.7,Supplier Delta,C,LOT-400,None,0,Good,0
+B01165,Line B,Morning,105,M09,0-2 years,4363,198.3,4.45,1279.4,Supplier Delta,C,LOT-270,Dimension Error,3,Defective,1
+B01166,Line D,Morning,213,M10,6+ years,2371,185.28,3.9,1310.6,Supplier Alpha,A,LOT-525,None,0,Good,0
+B01167,Line A,Morning,272,M03,6+ years,11030,195.44,5.35,1137.8,Supplier Delta,B,LOT-457,Porosity,8,Defective,1
+B01168,Line D,Night,102,M03,6+ years,11030,189.02,5.4,1400.7,Supplier Beta,C,LOT-822,Porosity,7,Defective,1
+B01169,Line D,Night,184,M02,0-2 years,14270,189.5,5.83,1007.5,Supplier Beta,B,LOT-529,None,0,Good,0
+B01170,Line C,Morning,203,M01,3-5 years,5499,191.17,5.27,1297.9,Supplier Beta,A,LOT-306,None,0,Good,0
+B01171,Line D,Morning,143,M09,0-2 years,4363,186.64,4.22,1174.7,Supplier Gamma,A,LOT-144,Warping,1,Defective,1
+B01172,Line C,Night,230,M05,6+ years,6132,200.07,4.83,1235.6,Supplier Gamma,A,LOT-621,None,0,Good,0
+B01173,Line D,Afternoon,237,M12,6+ years,17420,169.22,4.65,1259.2,Supplier Beta,A,LOT-131,Scratch,7,Defective,1
+B01174,Line A,Night,194,M04,0-2 years,4973,186.04,4.68,916.0,Supplier Alpha,A,LOT-956,None,0,Good,0
+B01175,Line B,Afternoon,164,M09,0-2 years,4363,191.29,4.93,1164.8,Supplier Delta,C,LOT-355,None,0,Good,0
+B01176,Line D,Morning,155,M06,3-5 years,571,178.95,5.19,1131.9,Supplier Beta,B,LOT-736,Dimension Error,1,Defective,1
+B01177,Line A,Afternoon,224,M04,0-2 years,4973,177.25,5.2,1253.8,Supplier Delta,A,LOT-757,Warping,1,Defective,1
+B01178,Line B,Morning,240,M06,3-5 years,571,195.93,5.42,821.2,Supplier Gamma,B,LOT-510,None,0,Good,0
+B01179,Line D,Afternoon,84,M06,3-5 years,571,188.74,4.76,1180.5,Supplier Delta,A,LOT-684,Warping,1,Defective,1
+B01180,Line D,Morning,159,M11,6+ years,6433,195.73,4.86,1113.5,Supplier Gamma,B,LOT-685,None,0,Good,0
+B01181,Line D,Afternoon,241,M08,0-2 years,10441,187.91,5.47,1272.2,Supplier Alpha,A,LOT-924,None,0,Good,0
+B01182,Line A,Morning,149,M06,3-5 years,571,183.23,5.14,1158.8,Supplier Beta,B,LOT-167,Surface Crack,6,Defective,1
+B01183,Line C,Morning,85,M04,0-2 years,4973,198.69,5.1,1115.7,Supplier Delta,B,LOT-552,None,0,Good,0
+B01184,Line B,Night,81,M09,0-2 years,4363,197.4,5.42,1078.4,Supplier Beta,B,LOT-698,Warping,1,Defective,1
+B01185,Line A,Afternoon,263,M01,3-5 years,5499,186.09,4.95,1430.9,Supplier Delta,C,LOT-329,Warping,3,Defective,1
+B01186,Line D,Morning,116,M09,0-2 years,4363,195.03,4.63,1011.2,Supplier Beta,A,LOT-570,Porosity,2,Defective,1
+B01187,Line D,Morning,109,M06,3-5 years,571,183.94,4.97,1166.5,Supplier Gamma,B,LOT-773,Dimension Error,5,Defective,1
+B01188,Line B,Afternoon,291,M03,6+ years,11030,198.54,4.72,1127.1,Supplier Gamma,B,LOT-352,Warping,5,Defective,1
+B01189,Line C,Morning,190,M04,0-2 years,4973,167.79,5.25,1173.3,Supplier Alpha,A,LOT-790,None,0,Good,0
+B01190,Line D,Morning,188,M10,6+ years,2371,196.34,4.87,1115.3,Supplier Beta,C,LOT-740,Surface Crack,1,Defective,1
+B01191,Line B,Afternoon,248,M11,6+ years,6433,182.44,5.95,1143.3,Supplier Alpha,B,LOT-973,None,0,Good,0
+B01192,Line C,Afternoon,97,M04,0-2 years,4973,190.32,5.5,1322.9,Supplier Beta,A,LOT-816,None,0,Good,0
+B01193,Line C,Afternoon,145,M03,6+ years,11030,189.81,5.34,1166.1,Supplier Gamma,A,LOT-829,None,0,Good,0
+B01194,Line D,Morning,235,M07,0-2 years,3552,177.26,4.27,1135.3,Supplier Gamma,A,LOT-659,None,0,Good,0
+B01195,Line D,Afternoon,135,M10,6+ years,2371,185.14,5.11,1100.8,Supplier Alpha,B,LOT-303,Surface Crack,6,Defective,1
+B01196,Line B,Afternoon,228,M05,6+ years,6132,187.34,4.61,1437.5,Supplier Alpha,A,LOT-710,Warping,1,Defective,1
+B01197,Line D,Morning,185,M04,0-2 years,4973,173.8,5.61,1087.2,Supplier Beta,C,LOT-477,Warping,1,Defective,1
+B01198,Line B,Afternoon,212,M10,6+ years,2371,196.61,5.03,1184.0,Supplier Beta,B,LOT-493,Warping,1,Defective,1
+B01199,Line A,Morning,258,M04,0-2 years,4973,189.69,5.83,1246.4,Supplier Beta,B,LOT-146,None,0,Good,0
+B01200,Line D,Night,270,M02,0-2 years,14270,198.8,4.73,976.8,Supplier Beta,A,LOT-399,None,0,Good,0
